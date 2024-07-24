@@ -1,0 +1,1879 @@
+order_date,city,id_user,item_name,price,category
+08-01-2021,Chennai,854d,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Chennai,e846,Veg Noodles,190,rice and noodles
+08-01-2021,Chennai,e846,Hummus Wrap,160,wraps and salads
+08-01-2021,Chennai,e846,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Chennai,e846,Veg pizza,320,international
+08-01-2021,Chennai,e846,Plain Rice,80,rice and noodles
+08-01-2021,Chennai,e846,Soya Chunks,220,starters
+08-01-2021,Chennai,e846,Veggie Bowl,300,international
+08-01-2021,Chennai,e846,Veggie Bowl,300,international
+08-01-2021,Mumbai,2f47,Veggie Bowl,300,international
+08-01-2021,Mumbai,3d49,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Mumbai,4c49,Veg Noodles,190,rice and noodles
+08-01-2021,Mumbai,4f4c,Plain Rice,80,rice and noodles
+08-01-2021,Mumbai,5a40,Veg Noodles,190,rice and noodles
+08-01-2021,Mumbai,244,Bread with Jam,100,bread
+08-01-2021,Mumbai,224d,Soya Chunks,220,starters
+08-01-2021,Mumbai,244f,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mumbai,264a,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mumbai,6340,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mumbai,1041,Soya Chunks,220,starters
+08-01-2021,Mumbai,6245,Cheese Salad,180,wraps and salads
+08-01-2021,Mumbai,a649,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mumbai,d242,Bread with Jam,100,bread
+08-01-2021,Mumbai,df4b,Cheese Salad,180,wraps and salads
+08-01-2021,Delhi,4c47,Veggie Bowl,300,international
+08-01-2021,Delhi,4c47,Veggie Bowl,300,international
+08-01-2021,Delhi,4f4d,Veg pizza,320,international
+08-01-2021,Delhi,914e,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Hyderabad,1.00E+46,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Hyderabad,3a46,Veg Noodles,190,rice and noodles
+08-01-2021,Hyderabad,4f4a,Veg pizza,320,international
+08-01-2021,Hyderabad,6b41,Veggie Bowl,300,international
+08-01-2021,Hyderabad,1544,Soya Chunks,220,starters
+08-01-2021,Hyderabad,914f,Cheese Salad,180,wraps and salads
+08-01-2021,Hyderabad,5049,Bread with Jam,100,bread
+08-01-2021,Hyderabad,1342,Plain Rice,80,rice and noodles
+08-01-2021,Hyderabad,204e,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Hyderabad,a948,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Hyderabad,a548,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Hyderabad,ab48,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Hyderabad,ab44,Veggie Bowl,300,international
+08-01-2021,Hyderabad,af4e,Bread with Jam,100,bread
+08-01-2021,Hyderabad,bb45,Veggie Bowl,300,international
+08-01-2021,Hyderabad,c24e,Veggie Bowl,300,international
+08-01-2021,Hyderabad,c243,Hummus Wrap,160,wraps and salads
+08-01-2021,Kolkata,5043,Veg Noodles,190,rice and noodles
+08-01-2021,Kolkata,5043,Hummus Wrap,160,wraps and salads
+08-01-2021,Kolkata,5043,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Kolkata,5043,Veg pizza,320,international
+08-01-2021,Kolkata,5043,Bread with Jam,100,bread
+08-01-2021,Kolkata,5043,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Kolkata,5043,Plain Rice,80,rice and noodles
+08-01-2021,Kolkata,5043,Soya Chunks,220,starters
+08-01-2021,Kolkata,5043,Veggie Bowl,300,international
+08-01-2021,Kochi,2649,Hummus Wrap,160,wraps and salads
+08-01-2021,Kochi,2649,Veg pizza,320,international
+08-01-2021,Kochi,2649,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Kochi,2649,Soya Chunks,220,starters
+08-01-2021,Bangalore,5c4d,Veggie Bowl,300,international
+08-01-2021,Bangalore,6a46,Veggie Bowl,300,international
+08-01-2021,Bangalore,784b,Cheese Salad,180,wraps and salads
+08-01-2021,Bangalore,a448,Soya Chunks,220,starters
+08-01-2021,Bangalore,c544,Bread with Jam,100,bread
+08-01-2021,Bangalore,e947,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Bangalore,fb40,Veggie Bowl,300,international
+08-01-2021,Mysore,0e4a,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Mysore,0f4a,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,0f4a,Hummus Wrap,160,wraps and salads
+08-01-2021,Mysore,2a4d,Veggie Bowl,300,international
+08-01-2021,Mysore,3b4a,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mysore,4a42,Plain Rice,80,rice and noodles
+08-01-2021,Mysore,4b40,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mysore,5.00E+49,Veggie Bowl,300,international
+08-01-2021,Mysore,6a46,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Mysore,6.00E+40,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Mysore,6.00E+40,Soya Chunks,220,starters
+08-01-2021,Mysore,7d40,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,9c43,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,9c43,Veg pizza,320,international
+08-01-2021,Mysore,1344,Bread with Jam,100,bread
+08-01-2021,Mysore,884c,Veg Noodles,190,rice and noodles
+08-01-2021,Mysore,924d,Bread with Jam,100,bread
+08-01-2021,Mysore,3446,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,a94c,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mysore,a94c,Plain Rice,80,rice and noodles
+08-01-2021,Mysore,b049,Hummus Wrap,160,wraps and salads
+08-01-2021,Mysore,bd4e,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mysore,c845,Veggie Bowl,300,international
+08-01-2021,Mysore,cb4f,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,cc46,Veggie Bowl,300,international
+08-01-2021,Mysore,cf43,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,d048,Veg pizza,320,international
+08-01-2021,Mysore,d048,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Mysore,e44e,Veg Noodles,190,rice and noodles
+08-01-2021,Mysore,e44e,Veg pizza,320,international
+08-01-2021,Mysore,fc4e,Veggie Bowl,300,international
+08-01-2021,Mysore,fc4c,Veggie Bowl,300,international
+08-01-2021,Mysore,fc43,Cheese Salad,180,wraps and salads
+08-01-2021,Mysore,fc43,Veg pizza,320,international
+08-01-2021,Coimbatore,1.00E+48,Plain Rice,80,rice and noodles
+08-01-2021,Coimbatore,2a47,Plain Rice,80,rice and noodles
+08-01-2021,Coimbatore,064e,Veggie Bowl,300,international
+08-01-2021,Coimbatore,2543,Veggie Bowl,300,international
+08-01-2021,Coimbatore,574a,Plain Rice,80,rice and noodles
+08-01-2021,Coimbatore,844f,Soya Chunks,220,starters
+08-01-2021,Coimbatore,304e,Soya Chunks,220,starters
+08-01-2021,Coimbatore,4841,Soya Chunks,220,starters
+08-01-2021,Coimbatore,534c,Veggie Bowl,300,international
+08-01-2021,Coimbatore,614b,Plain Rice,80,rice and noodles
+08-01-2021,Coimbatore,6141,Soya Chunks,220,starters
+08-01-2021,Coimbatore,904a,Veggie Bowl,300,international
+08-01-2021,Coimbatore,1945,Veg pizza,320,international
+08-01-2021,Coimbatore,7141,Veggie Bowl,300,international
+08-01-2021,Coimbatore,b641,Soya Chunks,220,starters
+08-01-2021,Coimbatore,bb43,Veggie Bowl,300,international
+08-01-2021,Coimbatore,c24c,Plain Rice,80,rice and noodles
+08-01-2021,Coimbatore,d74e,Veggie Bowl,300,international
+08-01-2021,Coimbatore,d74e,Veggie Bowl,300,international
+08-01-2021,Coimbatore,e244,Veg pizza,320,international
+08-01-2021,Coimbatore,f742,Soya Chunks,220,starters
+08-01-2021,Indore,0b44,Bread with Jam,100,bread
+08-01-2021,Indore,1a4d,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Indore,2b43,Veg Noodles,190,rice and noodles
+08-01-2021,Indore,6b42,Veg Noodles,190,rice and noodles
+08-01-2021,Indore,8a47,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Indore,2340,Veg pizza,320,international
+08-01-2021,Indore,2440,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,7447,Veg Noodles,190,rice and noodles
+08-01-2021,Indore,5649,Hummus Wrap,160,wraps and salads
+08-01-2021,Indore,6444,Spicy Fried Rice,250,rice and noodles
+08-01-2021,Indore,9045,Soya Chunks,220,starters
+08-01-2021,Indore,844a,Veg pizza,320,international
+08-01-2021,Indore,843,Veggie Bowl,300,international
+08-01-2021,Indore,5747,Hummus Wrap,160,wraps and salads
+08-01-2021,Indore,774f,Veg Noodles,190,rice and noodles
+08-01-2021,Indore,ac43,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,af47,Veg pizza,320,international
+08-01-2021,Indore,b54c,Bread with Jam,100,bread
+08-01-2021,Indore,b946,Hummus Wrap,160,wraps and salads
+08-01-2021,Indore,ba41,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,bb4e,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,bc46,Soya Chunks,220,starters
+08-01-2021,Indore,c940,Veg Noodles,190,rice and noodles
+08-01-2021,Indore,ca4c,Hummus Wrap,160,wraps and salads
+08-01-2021,Indore,e244,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,e24f,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,e941,Mushroom Fried Rice,230,rice and noodles
+08-01-2021,Indore,e542,Veggie Bowl,300,international
+08-01-2021,Indore,ea47,Veg Noodles,190,rice and noodles
+08-01-2021,Indore,f546,Veg pizza,320,international
+08-01-2021,Indore,fe48,Plain Rice,80,rice and noodles
+08-02-2021,Chennai,a741,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Chennai,c24d,Veg Noodles,190,rice and noodles
+08-02-2021,Mumbai,2f47,Bread with Jam,100,bread
+08-02-2021,Mumbai,3d49,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Mumbai,4c49,Plain Rice,80,rice and noodles
+08-02-2021,Mumbai,4f4c,Cheese Salad,180,wraps and salads
+08-02-2021,Mumbai,124a,Bread with Jam,100,bread
+08-02-2021,Mumbai,224d,Veggie Bowl,300,international
+08-02-2021,Mumbai,244f,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Mumbai,264a,Hummus Wrap,160,wraps and salads
+08-02-2021,Mumbai,7742,Soya Chunks,220,starters
+08-02-2021,Mumbai,8240,Veg Noodles,190,rice and noodles
+08-02-2021,Mumbai,748,Bread with Jam,100,bread
+08-02-2021,Mumbai,1041,Bread with Jam,100,bread
+08-02-2021,Mumbai,6245,Cheese Salad,180,wraps and salads
+08-02-2021,Mumbai,a942,Veggie Bowl,300,international
+08-02-2021,Mumbai,a649,Bread with Jam,100,bread
+08-02-2021,Mumbai,ff47,Bread with Jam,100,bread
+08-02-2021,Delhi,4640,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Hyderabad,1.00E+46,Plain Rice,80,rice and noodles
+08-02-2021,Hyderabad,3b41,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Hyderabad,3d44,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Hyderabad,4.00E+47,Cheese Salad,180,wraps and salads
+08-02-2021,Hyderabad,6a4d,Bread with Jam,100,bread
+08-02-2021,Hyderabad,6b41,Hummus Wrap,160,wraps and salads
+08-02-2021,Hyderabad,004e,Veggie Bowl,300,international
+08-02-2021,Hyderabad,1544,Veggie Bowl,300,international
+08-02-2021,Hyderabad,4340,Veggie Bowl,300,international
+08-02-2021,Hyderabad,8041,Veggie Bowl,300,international
+08-02-2021,Hyderabad,914f,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Hyderabad,954f,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Hyderabad,374e,Cheese Salad,180,wraps and salads
+08-02-2021,Hyderabad,6145,Veggie Bowl,300,international
+08-02-2021,Hyderabad,5049,Veggie Bowl,300,international
+08-02-2021,Hyderabad,1342,Soya Chunks,220,starters
+08-02-2021,Hyderabad,474c,Veg pizza,320,international
+08-02-2021,Hyderabad,204e,Veg Noodles,190,rice and noodles
+08-02-2021,Hyderabad,714e,Veg Noodles,190,rice and noodles
+08-02-2021,Hyderabad,ab44,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Hyderabad,b947,Hummus Wrap,160,wraps and salads
+08-02-2021,Hyderabad,c24e,Veg Noodles,190,rice and noodles
+08-02-2021,Hyderabad,e44d,Veggie Bowl,300,international
+08-02-2021,Bhopal,7940,Veg Noodles,190,rice and noodles
+08-02-2021,Bhopal,7940,Cheese Salad,180,wraps and salads
+08-02-2021,Bhopal,7940,Hummus Wrap,160,wraps and salads
+08-02-2021,Bhopal,7940,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Bhopal,7940,Veg pizza,320,international
+08-02-2021,Bhopal,7940,Bread with Jam,100,bread
+08-02-2021,Bhopal,7940,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Bhopal,7940,Plain Rice,80,rice and noodles
+08-02-2021,Bhopal,7940,Soya Chunks,220,starters
+08-02-2021,Bhopal,7940,Veggie Bowl,300,international
+08-02-2021,Kolkata,5043,Cheese Salad,180,wraps and salads
+08-02-2021,Kolkata,5043,Hummus Wrap,160,wraps and salads
+08-02-2021,Kolkata,5043,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Kolkata,5043,Veg pizza,320,international
+08-02-2021,Kolkata,5043,Bread with Jam,100,bread
+08-02-2021,Kolkata,5043,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Chandigarh,5d41,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Chandigarh,9.00E+42,Cheese Salad,180,wraps and salads
+08-02-2021,Chandigarh,9f41,Veggie Bowl,300,international
+08-02-2021,Chandigarh,8647,Hummus Wrap,160,wraps and salads
+08-02-2021,Chandigarh,234e,Veggie Bowl,300,international
+08-02-2021,Chandigarh,214a,Bread with Jam,100,bread
+08-02-2021,Chandigarh,a243,Hummus Wrap,160,wraps and salads
+08-02-2021,Chandigarh,d449,Veggie Bowl,300,international
+08-02-2021,Bangalore,5f4e,Bread with Jam,100,bread
+08-02-2021,Bangalore,6a46,Hummus Wrap,160,wraps and salads
+08-02-2021,Bangalore,784b,Hummus Wrap,160,wraps and salads
+08-02-2021,Bangalore,a34b,Bread with Jam,100,bread
+08-02-2021,Bangalore,c544,Bread with Jam,100,bread
+08-02-2021,Bangalore,c64d,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Bangalore,f94a,Veggie Bowl,300,international
+08-02-2021,Mysore,0f4a,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Mysore,3b4a,Veg Noodles,190,rice and noodles
+08-02-2021,Mysore,4b40,Cheese Salad,180,wraps and salads
+08-02-2021,Mysore,5.00E+49,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Mysore,6c41,Veggie Bowl,300,international
+08-02-2021,Mysore,7d40,Veg Noodles,190,rice and noodles
+08-02-2021,Mysore,9c43,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Mysore,9c43,Soya Chunks,220,starters
+08-02-2021,Mysore,1344,Soya Chunks,220,starters
+08-02-2021,Mysore,884c,Cheese Salad,180,wraps and salads
+08-02-2021,Mysore,b049,Veggie Bowl,300,international
+08-02-2021,Mysore,d048,Cheese Salad,180,wraps and salads
+08-02-2021,Mysore,d048,Bread with Jam,100,bread
+08-02-2021,Mysore,e44e,Veg Noodles,190,rice and noodles
+08-02-2021,Mysore,e44e,Hummus Wrap,160,wraps and salads
+08-02-2021,Mysore,fc4c,Veggie Bowl,300,international
+08-02-2021,Coimbatore,3f48,Soya Chunks,220,starters
+08-02-2021,Coimbatore,3f48,Veggie Bowl,300,international
+08-02-2021,Coimbatore,2543,Veg pizza,320,international
+08-02-2021,Coimbatore,574a,Soya Chunks,220,starters
+08-02-2021,Coimbatore,574a,Veggie Bowl,300,international
+08-02-2021,Coimbatore,984b,Soya Chunks,220,starters
+08-02-2021,Coimbatore,4143,Soya Chunks,220,starters
+08-02-2021,Coimbatore,4841,Plain Rice,80,rice and noodles
+08-02-2021,Coimbatore,534c,Veggie Bowl,300,international
+08-02-2021,Coimbatore,574d,Soya Chunks,220,starters
+08-02-2021,Coimbatore,6141,Veggie Bowl,300,international
+08-02-2021,Coimbatore,1945,Veg pizza,320,international
+08-02-2021,Coimbatore,a840,Veggie Bowl,300,international
+08-02-2021,Coimbatore,da40,Soya Chunks,220,starters
+08-02-2021,Coimbatore,e244,Veggie Bowl,300,international
+08-02-2021,Indore,0b44,Veggie Bowl,300,international
+08-02-2021,Indore,1a4d,Hummus Wrap,160,wraps and salads
+08-02-2021,Indore,2b43,Cheese Salad,180,wraps and salads
+08-02-2021,Indore,6b42,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Indore,8a47,Soya Chunks,220,starters
+08-02-2021,Indore,2340,Veg Noodles,190,rice and noodles
+08-02-2021,Indore,2440,Veg pizza,320,international
+08-02-2021,Indore,7447,Hummus Wrap,160,wraps and salads
+08-02-2021,Indore,5649,Bread with Jam,100,bread
+08-02-2021,Indore,734f,Soya Chunks,220,starters
+08-02-2021,Indore,9045,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Indore,844a,Veggie Bowl,300,international
+08-02-2021,Indore,5747,Plain Rice,80,rice and noodles
+08-02-2021,Indore,774f,Bread with Jam,100,bread
+08-02-2021,Indore,ac43,Plain Rice,80,rice and noodles
+08-02-2021,Indore,af47,Veggie Bowl,300,international
+08-02-2021,Indore,b54c,Veg Noodles,190,rice and noodles
+08-02-2021,Indore,b946,Hummus Wrap,160,wraps and salads
+08-02-2021,Indore,ba41,Veggie Bowl,300,international
+08-02-2021,Indore,bb4e,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Indore,bc46,Spicy Fried Rice,250,rice and noodles
+08-02-2021,Indore,c940,Plain Rice,80,rice and noodles
+08-02-2021,Indore,ca4c,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Indore,e244,Plain Rice,80,rice and noodles
+08-02-2021,Indore,e24f,Veggie Bowl,300,international
+08-02-2021,Indore,e941,Bread with Jam,100,bread
+08-02-2021,Indore,e542,Mushroom Fried Rice,230,rice and noodles
+08-02-2021,Indore,f546,Cheese Salad,180,wraps and salads
+08-02-2021,Indore,fe48,Spicy Fried Rice,250,rice and noodles
+08-05-2021,Chennai,854d,Brinjal 65,230,starters
+08-05-2021,Chennai,a941,Vegan Fried Paneer,250,starters
+08-05-2021,Mumbai,3d49,Fruit Salad,220,wraps and salads
+08-05-2021,Mumbai,3f45,Vegan Fried Paneer,250,starters
+08-05-2021,Mumbai,4c49,Spicy Quesadilla,220,international
+08-05-2021,Mumbai,5a40,Spring Rolls,120,starters
+08-05-2021,Mumbai,7d4f,Greek Tomato rice,200,rice and noodles
+08-05-2021,Mumbai,7.00E+45,Greek Tomato rice,200,rice and noodles
+08-05-2021,Mumbai,124a,Mango Lassi,90,juices
+08-05-2021,Mumbai,264a,Mashed potatoes,240,starters
+08-05-2021,Mumbai,1041,Falafel,130,international
+08-05-2021,Mumbai,2841,Mango Lassi,90,juices
+08-05-2021,Mumbai,6245,Fruit Salad,220,wraps and salads
+08-05-2021,Mumbai,834f,Spring Rolls,120,starters
+08-05-2021,Mumbai,a942,Mango Lassi,90,juices
+08-05-2021,Mumbai,ac4a,Fruit Salad,220,wraps and salads
+08-05-2021,Mumbai,c343,Mango Lassi,90,juices
+08-05-2021,Mumbai,df4b,Mango Lassi,90,juices
+08-05-2021,Mumbai,ff47,Korean Noodles,200,rice and noodles
+08-05-2021,Delhi,4c47,Mashed potatoes,240,starters
+08-05-2021,Delhi,4c47,Mango Lassi,90,juices
+08-05-2021,Delhi,4c47,Korean Noodles,200,rice and noodles
+08-05-2021,Delhi,4f4d,Mango Lassi,90,juices
+08-05-2021,Delhi,914e,Spring Rolls,120,starters
+08-05-2021,Delhi,de42,Mashed potatoes,240,starters
+08-05-2021,Hyderabad,1.00E+46,Vegan Fried Paneer,250,starters
+08-05-2021,Hyderabad,004e,Spicy Quesadilla,220,international
+08-05-2021,Hyderabad,2649,Mango Lassi,90,juices
+08-05-2021,Hyderabad,8041,Mango Lassi,90,juices
+08-05-2021,Hyderabad,8345,Spring Rolls,120,starters
+08-05-2021,Hyderabad,914f,Mango Lassi,90,juices
+08-05-2021,Hyderabad,7941,Spring Rolls,120,starters
+08-05-2021,Hyderabad,374e,Korean Noodles,200,rice and noodles
+08-05-2021,Hyderabad,5049,Mashed potatoes,240,starters
+08-05-2021,Hyderabad,1342,Korean Noodles,200,rice and noodles
+08-05-2021,Hyderabad,5048,Mashed potatoes,240,starters
+08-05-2021,Hyderabad,1641,Spring Rolls,120,starters
+08-05-2021,Hyderabad,204e,Mango Lassi,90,juices
+08-05-2021,Hyderabad,ab44,Vegan Fried Paneer,250,starters
+08-05-2021,Hyderabad,b947,Korean Noodles,200,rice and noodles
+08-05-2021,Hyderabad,bb45,Fruit Salad,220,wraps and salads
+08-05-2021,Hyderabad,d842,Spring Rolls,120,starters
+08-05-2021,Hyderabad,da44,Mashed potatoes,240,starters
+08-05-2021,Hyderabad,dc48,Brinjal 65,230,starters
+08-05-2021,Kolkata,5043,Brinjal 65,230,starters
+08-05-2021,Kolkata,5043,Greek Tomato rice,200,rice and noodles
+08-05-2021,Kolkata,5043,Mango Lassi,90,juices
+08-05-2021,Kolkata,5043,Korean Noodles,200,rice and noodles
+08-05-2021,Kolkata,5043,Fruit Salad,220,wraps and salads
+08-05-2021,Kolkata,5043,Vegan Fried Paneer,250,starters
+08-05-2021,Chandigarh,9b49,Mango Lassi,90,juices
+08-05-2021,Chandigarh,9.00E+42,Falafel,130,international
+08-05-2021,Chandigarh,6840,Fruit Salad,220,wraps and salads
+08-05-2021,Chandigarh,9645,Brinjal 65,230,starters
+08-05-2021,Chandigarh,8647,Fruit Salad,220,wraps and salads
+08-05-2021,Chandigarh,214a,Brinjal 65,230,starters
+08-05-2021,Chandigarh,a243,Fruit Salad,220,wraps and salads
+08-05-2021,Chandigarh,ce44,Greek Tomato rice,200,rice and noodles
+08-05-2021,Chandigarh,e44c,Falafel,130,international
+08-05-2021,Chandigarh,fb4e,Fruit Salad,220,wraps and salads
+08-05-2021,Bangalore,6a46,Korean Noodles,200,rice and noodles
+08-05-2021,Bangalore,6f46,Greek Tomato rice,200,rice and noodles
+08-05-2021,Bangalore,104d,Fruit Salad,220,wraps and salads
+08-05-2021,Bangalore,784b,Greek Tomato rice,200,rice and noodles
+08-05-2021,Bangalore,c544,Mashed potatoes,240,starters
+08-05-2021,Bangalore,e947,Spicy Quesadilla,220,international
+08-05-2021,Mysore,2a4d,Mango Lassi,90,juices
+08-05-2021,Mysore,3b4a,Mashed potatoes,240,starters
+08-05-2021,Mysore,4b40,Brinjal 65,230,starters
+08-05-2021,Mysore,5.00E+49,Mango Lassi,90,juices
+08-05-2021,Mysore,5.00E+49,Fruit Salad,220,wraps and salads
+08-05-2021,Mysore,6c41,Brinjal 65,230,starters
+08-05-2021,Mysore,6c41,Mango Lassi,90,juices
+08-05-2021,Mysore,9c43,Mango Lassi,90,juices
+08-05-2021,Mysore,9c43,Vegan Fried Paneer,250,starters
+08-05-2021,Mysore,1344,Mango Lassi,90,juices
+08-05-2021,Mysore,4645,Greek Tomato rice,200,rice and noodles
+08-05-2021,Mysore,9841,Mashed potatoes,240,starters
+08-05-2021,Mysore,924d,Mango Lassi,90,juices
+08-05-2021,Mysore,3446,Brinjal 65,230,starters
+08-05-2021,Mysore,474f,Brinjal 65,230,starters
+08-05-2021,Mysore,8943,Mashed potatoes,240,starters
+08-05-2021,Mysore,c845,Fruit Salad,220,wraps and salads
+08-05-2021,Mysore,c84a,Mango Lassi,90,juices
+08-05-2021,Mysore,e44e,Vegan Fried Paneer,250,starters
+08-05-2021,Mysore,e44e,Spicy Quesadilla,220,international
+08-05-2021,Mysore,f94a,Korean Noodles,200,rice and noodles
+08-05-2021,Coimbatore,5.00E+41,Mango Lassi,90,juices
+08-05-2021,Coimbatore,6d48,Vegan Fried Paneer,250,starters
+08-05-2021,Coimbatore,9d4e,Spicy Quesadilla,220,international
+08-05-2021,Coimbatore,364a,Falafel,130,international
+08-05-2021,Coimbatore,7848,Falafel,130,international
+08-05-2021,Coimbatore,574d,Mango Lassi,90,juices
+08-05-2021,Coimbatore,6141,Mango Lassi,90,juices
+08-05-2021,Coimbatore,654a,Mango Lassi,90,juices
+08-05-2021,Coimbatore,1945,Mango Lassi,90,juices
+08-05-2021,Coimbatore,be4c,Spicy Quesadilla,220,international
+08-05-2021,Coimbatore,cc4e,Vegan Fried Paneer,250,starters
+08-05-2021,Coimbatore,ef40,Mango Lassi,90,juices
+08-05-2021,Coimbatore,ef42,Vegan Fried Paneer,250,starters
+08-05-2021,Coimbatore,fa44,Falafel,130,international
+08-05-2021,Indore,0b44,Spring Rolls,120,starters
+08-05-2021,Indore,1a4d,Fruit Salad,220,wraps and salads
+08-05-2021,Indore,2b43,Spring Rolls,120,starters
+08-05-2021,Indore,5c4e,Mango Lassi,90,juices
+08-05-2021,Indore,6b42,Korean Noodles,200,rice and noodles
+08-05-2021,Indore,8a47,Spring Rolls,120,starters
+08-05-2021,Indore,2340,Mango Lassi,90,juices
+08-05-2021,Indore,2440,Vegan Fried Paneer,250,starters
+08-05-2021,Indore,7447,Brinjal 65,230,starters
+08-05-2021,Indore,9045,Spring Rolls,120,starters
+08-05-2021,Indore,844a,Mango Lassi,90,juices
+08-05-2021,Indore,843,Spring Rolls,120,starters
+08-05-2021,Indore,5747,Mango Lassi,90,juices
+08-05-2021,Indore,354d,Mango Lassi,90,juices
+08-05-2021,Indore,774f,Mashed potatoes,240,starters
+08-05-2021,Indore,ba41,Mango Lassi,90,juices
+08-05-2021,Indore,bb4e,Korean Noodles,200,rice and noodles
+08-05-2021,Indore,bc46,Vegan Fried Paneer,250,starters
+08-05-2021,Indore,c940,Spicy Quesadilla,220,international
+08-05-2021,Indore,e24f,Greek Tomato rice,200,rice and noodles
+08-05-2021,Indore,e24f,Vegan Fried Paneer,250,starters
+08-05-2021,Indore,e941,Greek Tomato rice,200,rice and noodles
+08-05-2021,Indore,e542,Falafel,130,international
+08-05-2021,Indore,ea47,Fruit Salad,220,wraps and salads
+08-05-2021,Indore,f546,Mango Lassi,90,juices
+08-05-2021,Indore,fe48,Vegan Fried Paneer,250,starters
+08-06-2021,Chennai,424d,Vegan Fried Paneer,250,starters
+08-06-2021,Chennai,854d,Greek Tomato rice,200,rice and noodles
+08-06-2021,Chennai,7843,Vegan Fried Paneer,250,starters
+08-06-2021,Chennai,a741,Greek Tomato rice,200,rice and noodles
+08-06-2021,Mumbai,0d4b,Falafel,130,international
+08-06-2021,Mumbai,1b45,Spring Rolls,120,starters
+08-06-2021,Mumbai,3d49,Falafel,130,international
+08-06-2021,Mumbai,3f45,Spring Rolls,120,starters
+08-06-2021,Mumbai,4c4f,Vegan Fried Paneer,250,starters
+08-06-2021,Mumbai,4c49,Fruit Salad,220,wraps and salads
+08-06-2021,Mumbai,5a40,Vegan Fried Paneer,250,starters
+08-06-2021,Mumbai,7.00E+45,Spring Rolls,120,starters
+08-06-2021,Mumbai,124a,Korean Noodles,200,rice and noodles
+08-06-2021,Mumbai,124a,Spring Rolls,120,starters
+08-06-2021,Mumbai,244f,Spring Rolls,120,starters
+08-06-2021,Mumbai,264a,Spring Rolls,120,starters
+08-06-2021,Mumbai,264a,Fruit Salad,220,wraps and salads
+08-06-2021,Mumbai,624a,Spicy Quesadilla,220,international
+08-06-2021,Mumbai,7742,Spicy Quesadilla,220,international
+08-06-2021,Mumbai,748,Korean Noodles,200,rice and noodles
+08-06-2021,Mumbai,748,Spicy Quesadilla,220,international
+08-06-2021,Mumbai,2841,Korean Noodles,200,rice and noodles
+08-06-2021,Mumbai,6245,Korean Noodles,200,rice and noodles
+08-06-2021,Mumbai,7449,Spring Rolls,120,starters
+08-06-2021,Mumbai,834f,Fruit Salad,220,wraps and salads
+08-06-2021,Mumbai,a942,Falafel,130,international
+08-06-2021,Mumbai,da45,Spring Rolls,120,starters
+08-06-2021,Mumbai,ff47,Spring Rolls,120,starters
+08-06-2021,Delhi,4c47,Greek Tomato rice,200,rice and noodles
+08-06-2021,Delhi,4c47,Falafel,130,international
+08-06-2021,Delhi,4f4d,Brinjal 65,230,starters
+08-06-2021,Delhi,4640,Spring Rolls,120,starters
+08-06-2021,Delhi,914e,Greek Tomato rice,200,rice and noodles
+08-06-2021,Delhi,de42,Greek Tomato rice,200,rice and noodles
+08-06-2021,Hyderabad,1c4e,Spring Rolls,120,starters
+08-06-2021,Hyderabad,1.00E+46,Spicy Quesadilla,220,international
+08-06-2021,Hyderabad,3b41,Spring Rolls,120,starters
+08-06-2021,Hyderabad,4.00E+47,Mango Lassi,90,juices
+08-06-2021,Hyderabad,5c4c,Spring Rolls,120,starters
+08-06-2021,Hyderabad,6a4d,Korean Noodles,200,rice and noodles
+08-06-2021,Hyderabad,6b41,Korean Noodles,200,rice and noodles
+08-06-2021,Hyderabad,2649,Greek Tomato rice,200,rice and noodles
+08-06-2021,Hyderabad,2649,Korean Noodles,200,rice and noodles
+08-06-2021,Hyderabad,8043,Mango Lassi,90,juices
+08-06-2021,Hyderabad,914f,Fruit Salad,220,wraps and salads
+08-06-2021,Hyderabad,6145,Vegan Fried Paneer,250,starters
+08-06-2021,Hyderabad,1342,Mango Lassi,90,juices
+08-06-2021,Hyderabad,5048,Vegan Fried Paneer,250,starters
+08-06-2021,Hyderabad,8247,Spring Rolls,120,starters
+08-06-2021,Hyderabad,ab44,Mango Lassi,90,juices
+08-06-2021,Hyderabad,af4e,Spring Rolls,120,starters
+08-06-2021,Hyderabad,bb45,Korean Noodles,200,rice and noodles
+08-06-2021,Hyderabad,bc49,Vegan Fried Paneer,250,starters
+08-06-2021,Hyderabad,d249,Spring Rolls,120,starters
+08-06-2021,Hyderabad,d442,Mango Lassi,90,juices
+08-06-2021,Hyderabad,d842,Mango Lassi,90,juices
+08-06-2021,Hyderabad,da44,Spring Rolls,120,starters
+08-06-2021,Hyderabad,dc48,Korean Noodles,200,rice and noodles
+08-06-2021,Hyderabad,ec40,Korean Noodles,200,rice and noodles
+08-06-2021,Hyderabad,ee4d,Fruit Salad,220,wraps and salads
+08-06-2021,Kolkata,5043,Mashed potatoes,240,starters
+08-06-2021,Kolkata,5043,Brinjal 65,230,starters
+08-06-2021,Kolkata,5043,Greek Tomato rice,200,rice and noodles
+08-06-2021,Kolkata,5043,Korean Noodles,200,rice and noodles
+08-06-2021,Kolkata,5043,Spring Rolls,120,starters
+08-06-2021,Kolkata,5043,Fruit Salad,220,wraps and salads
+08-06-2021,Jaipur,4142,Spring Rolls,120,starters
+08-06-2021,Jaipur,974a,Brinjal 65,230,starters
+08-06-2021,Jaipur,974a,Brinjal 65,230,starters
+08-06-2021,Jaipur,7744,Greek Tomato rice,200,rice and noodles
+08-06-2021,Jaipur,540,Spring Rolls,120,starters
+08-06-2021,Chandigarh,5d41,Spring Rolls,120,starters
+08-06-2021,Chandigarh,6c4f,Mango Lassi,90,juices
+08-06-2021,Chandigarh,6840,Fruit Salad,220,wraps and salads
+08-06-2021,Chandigarh,954d,Falafel,130,international
+08-06-2021,Chandigarh,214a,Fruit Salad,220,wraps and salads
+08-06-2021,Chandigarh,a243,Spring Rolls,120,starters
+08-06-2021,Chandigarh,ce44,Fruit Salad,220,wraps and salads
+08-06-2021,Chandigarh,d449,Vegan Fried Paneer,250,starters
+08-06-2021,Chandigarh,e44c,Greek Tomato rice,200,rice and noodles
+08-06-2021,Bangalore,5f4e,Greek Tomato rice,200,rice and noodles
+08-06-2021,Bangalore,6a46,Spicy Quesadilla,220,international
+08-06-2021,Bangalore,784b,Spring Rolls,120,starters
+08-06-2021,Bangalore,c544,Vegan Fried Paneer,250,starters
+08-06-2021,Bangalore,dd4e,Falafel,130,international
+08-06-2021,Bangalore,e947,Falafel,130,international
+08-06-2021,Mysore,0e4a,Fruit Salad,220,wraps and salads
+08-06-2021,Mysore,2a4d,Mango Lassi,90,juices
+08-06-2021,Mysore,3b4a,Fruit Salad,220,wraps and salads
+08-06-2021,Mysore,4a42,Mango Lassi,90,juices
+08-06-2021,Mysore,4b40,Spring Rolls,120,starters
+08-06-2021,Mysore,5.00E+49,Brinjal 65,230,starters
+08-06-2021,Mysore,5.00E+49,Vegan Fried Paneer,250,starters
+08-06-2021,Mysore,6a46,Spring Rolls,120,starters
+08-06-2021,Mysore,6c41,Korean Noodles,200,rice and noodles
+08-06-2021,Mysore,6c41,Vegan Fried Paneer,250,starters
+08-06-2021,Mysore,6.00E+40,Mango Lassi,90,juices
+08-06-2021,Mysore,6.00E+40,Vegan Fried Paneer,250,starters
+08-06-2021,Mysore,6f45,Mango Lassi,90,juices
+08-06-2021,Mysore,8e4f,Mango Lassi,90,juices
+08-06-2021,Mysore,8e4f,Vegan Fried Paneer,250,starters
+08-06-2021,Mysore,9c43,Brinjal 65,230,starters
+08-06-2021,Mysore,9c43,Spring Rolls,120,starters
+08-06-2021,Mysore,064a,Mango Lassi,90,juices
+08-06-2021,Mysore,4645,Brinjal 65,230,starters
+08-06-2021,Mysore,094f,Fruit Salad,220,wraps and salads
+08-06-2021,Mysore,3446,Spring Rolls,120,starters
+08-06-2021,Mysore,a94c,Brinjal 65,230,starters
+08-06-2021,Mysore,a94c,Spring Rolls,120,starters
+08-06-2021,Mysore,c845,Korean Noodles,200,rice and noodles
+08-06-2021,Mysore,cf43,Mango Lassi,90,juices
+08-06-2021,Mysore,e34f,Vegan Fried Paneer,250,starters
+08-06-2021,Mysore,fc4e,Vegan Fried Paneer,250,starters
+08-06-2021,Mysore,fc4c,Mango Lassi,90,juices
+08-06-2021,Mysore,fc43,Greek Tomato rice,200,rice and noodles
+08-06-2021,Mysore,fc43,Falafel,130,international
+08-06-2021,Coimbatore,7a48,Mango Lassi,90,juices
+08-06-2021,Coimbatore,7a48,Vegan Fried Paneer,250,starters
+08-06-2021,Coimbatore,9d4e,Mango Lassi,90,juices
+08-06-2021,Coimbatore,4643,Mango Lassi,90,juices
+08-06-2021,Coimbatore,574a,Mango Lassi,90,juices
+08-06-2021,Coimbatore,574d,Mango Lassi,90,juices
+08-06-2021,Coimbatore,6141,Vegan Fried Paneer,250,starters
+08-06-2021,Coimbatore,814e,Vegan Fried Paneer,250,starters
+08-06-2021,Coimbatore,4340,Vegan Fried Paneer,250,starters
+08-06-2021,Coimbatore,1945,Falafel,130,international
+08-06-2021,Coimbatore,a549,Falafel,130,international
+08-06-2021,Coimbatore,b641,Mango Lassi,90,juices
+08-06-2021,Coimbatore,b947,Mango Lassi,90,juices
+08-06-2021,Coimbatore,be4c,Mango Lassi,90,juices
+08-06-2021,Indore,0b44,Vegan Fried Paneer,250,starters
+08-06-2021,Indore,1a4d,Spring Rolls,120,starters
+08-06-2021,Indore,5c4e,Korean Noodles,200,rice and noodles
+08-06-2021,Indore,8a47,Brinjal 65,230,starters
+08-06-2021,Indore,2340,Spicy Quesadilla,220,international
+08-06-2021,Indore,2440,Fruit Salad,220,wraps and salads
+08-06-2021,Indore,7447,Mango Lassi,90,juices
+08-06-2021,Indore,9045,Fruit Salad,220,wraps and salads
+08-06-2021,Indore,844a,Vegan Fried Paneer,250,starters
+08-06-2021,Indore,5747,Vegan Fried Paneer,250,starters
+08-06-2021,Indore,354d,Falafel,130,international
+08-06-2021,Indore,774f,Korean Noodles,200,rice and noodles
+08-06-2021,Indore,b54c,Korean Noodles,200,rice and noodles
+08-06-2021,Indore,ba41,Korean Noodles,200,rice and noodles
+08-06-2021,Indore,bb4e,Brinjal 65,230,starters
+08-06-2021,Indore,bc46,Brinjal 65,230,starters
+08-06-2021,Indore,c940,Mango Lassi,90,juices
+08-06-2021,Indore,ca4c,Greek Tomato rice,200,rice and noodles
+08-06-2021,Indore,e24f,Mango Lassi,90,juices
+08-06-2021,Indore,e941,Brinjal 65,230,starters
+08-06-2021,Indore,ea47,Spring Rolls,120,starters
+08-06-2021,Indore,fe48,Greek Tomato rice,200,rice and noodles
+08-07-2021,Chennai,3d4e,Greek Tomato rice,200,rice and noodles
+08-07-2021,Chennai,4.00E+47,Greek Tomato rice,200,rice and noodles
+08-07-2021,Chennai,4.00E+47,Mango Lassi,90,juices
+08-07-2021,Chennai,7f45,Brinjal 65,230,starters
+08-07-2021,Chennai,104c,Mango Lassi,90,juices
+08-07-2021,Chennai,a941,Vegan Fried Paneer,250,starters
+08-07-2021,Chennai,c04f,Greek Tomato rice,200,rice and noodles
+08-07-2021,Mumbai,2c47,Fruit Salad,220,wraps and salads
+08-07-2021,Mumbai,2f47,Korean Noodles,200,rice and noodles
+08-07-2021,Mumbai,3d49,Mango Lassi,90,juices
+08-07-2021,Mumbai,4c4f,Mango Lassi,90,juices
+08-07-2021,Mumbai,4c49,Spring Rolls,120,starters
+08-07-2021,Mumbai,7d4f,Mango Lassi,90,juices
+08-07-2021,Mumbai,7.00E+45,Greek Tomato rice,200,rice and noodles
+08-07-2021,Mumbai,124a,Mashed potatoes,240,starters
+08-07-2021,Mumbai,244f,Fruit Salad,220,wraps and salads
+08-07-2021,Mumbai,8240,Mango Lassi,90,juices
+08-07-2021,Mumbai,2440,Spring Rolls,120,starters
+08-07-2021,Mumbai,a649,Spring Rolls,120,starters
+08-07-2021,Mumbai,df4b,Brinjal 65,230,starters
+08-07-2021,Mumbai,e643,Spring Rolls,120,starters
+08-07-2021,Mumbai,ff47,Korean Noodles,200,rice and noodles
+08-07-2021,Delhi,4c47,Spring Rolls,120,starters
+08-07-2021,Delhi,4c47,Fruit Salad,220,wraps and salads
+08-07-2021,Delhi,4f4d,Falafel,130,international
+08-07-2021,Delhi,914e,Vegan Fried Paneer,250,starters
+08-07-2021,Hyderabad,1.00E+46,Brinjal 65,230,starters
+08-07-2021,Hyderabad,3b4d,Spicy Quesadilla,220,international
+08-07-2021,Hyderabad,3b41,Falafel,130,international
+08-07-2021,Hyderabad,5c4c,Mango Lassi,90,juices
+08-07-2021,Hyderabad,6b41,Mashed potatoes,240,starters
+08-07-2021,Hyderabad,9.00E+45,Spicy Quesadilla,220,international
+08-07-2021,Hyderabad,8041,Brinjal 65,230,starters
+08-07-2021,Hyderabad,8345,Korean Noodles,200,rice and noodles
+08-07-2021,Hyderabad,8744,Mashed potatoes,240,starters
+08-07-2021,Hyderabad,534e,Greek Tomato rice,200,rice and noodles
+08-07-2021,Hyderabad,404a,Fruit Salad,220,wraps and salads
+08-07-2021,Hyderabad,6145,Spicy Quesadilla,220,international
+08-07-2021,Hyderabad,8247,Mango Lassi,90,juices
+08-07-2021,Hyderabad,da44,Mashed potatoes,240,starters
+08-07-2021,Kolkata,5043,Brinjal 65,230,starters
+08-07-2021,Kolkata,5043,Greek Tomato rice,200,rice and noodles
+08-07-2021,Kolkata,5043,Mango Lassi,90,juices
+08-07-2021,Kolkata,5043,Fruit Salad,220,wraps and salads
+08-07-2021,Kolkata,5043,Vegan Fried Paneer,250,starters
+08-07-2021,Jaipur,974a,Mango Lassi,90,juices
+08-07-2021,Jaipur,974a,Vegan Fried Paneer,250,starters
+08-07-2021,Chandigarh,5d41,Korean Noodles,200,rice and noodles
+08-07-2021,Chandigarh,9.00E+42,Fruit Salad,220,wraps and salads
+08-07-2021,Chandigarh,6840,Fruit Salad,220,wraps and salads
+08-07-2021,Chandigarh,9645,Brinjal 65,230,starters
+08-07-2021,Chandigarh,8647,Fruit Salad,220,wraps and salads
+08-07-2021,Chandigarh,234e,Spring Rolls,120,starters
+08-07-2021,Chandigarh,024d,Spring Rolls,120,starters
+08-07-2021,Chandigarh,214a,Greek Tomato rice,200,rice and noodles
+08-07-2021,Chandigarh,e44c,Fruit Salad,220,wraps and salads
+08-07-2021,Bangalore,5c4d,Spicy Quesadilla,220,international
+08-07-2021,Bangalore,5f4e,Spicy Quesadilla,220,international
+08-07-2021,Bangalore,104d,Korean Noodles,200,rice and noodles
+08-07-2021,Bangalore,784b,Fruit Salad,220,wraps and salads
+08-07-2021,Bangalore,b346,Mango Lassi,90,juices
+08-07-2021,Bangalore,fb40,Fruit Salad,220,wraps and salads
+08-07-2021,Trivandrum,7841,Mango Lassi,90,juices
+08-07-2021,Trivandrum,7841,Fruit Salad,220,wraps and salads
+08-07-2021,Mysore,0c49,Mango Lassi,90,juices
+08-07-2021,Mysore,0f4a,Spring Rolls,120,starters
+08-07-2021,Mysore,0f4a,Fruit Salad,220,wraps and salads
+08-07-2021,Mysore,2a4d,Brinjal 65,230,starters
+08-07-2021,Mysore,3b4a,Korean Noodles,200,rice and noodles
+08-07-2021,Mysore,4a42,Vegan Fried Paneer,250,starters
+08-07-2021,Mysore,4b40,Brinjal 65,230,starters
+08-07-2021,Mysore,5.00E+49,Korean Noodles,200,rice and noodles
+08-07-2021,Mysore,5.00E+49,Spring Rolls,120,starters
+08-07-2021,Mysore,6c41,Spring Rolls,120,starters
+08-07-2021,Mysore,8e4f,Brinjal 65,230,starters
+08-07-2021,Mysore,8e4f,Spring Rolls,120,starters
+08-07-2021,Mysore,9c43,Mango Lassi,90,juices
+08-07-2021,Mysore,064a,Korean Noodles,200,rice and noodles
+08-07-2021,Mysore,924d,Spring Rolls,120,starters
+08-07-2021,Mysore,3446,Brinjal 65,230,starters
+08-07-2021,Mysore,aa42,Mango Lassi,90,juices
+08-07-2021,Mysore,b049,Greek Tomato rice,200,rice and noodles
+08-07-2021,Mysore,c84a,Mango Lassi,90,juices
+08-07-2021,Mysore,cf43,Brinjal 65,230,starters
+08-07-2021,Mysore,fc4e,Spring Rolls,120,starters
+08-07-2021,Mangalore,d048,Mango Lassi,90,juices
+08-07-2021,Mangalore,d048,Vegan Fried Paneer,250,starters
+08-07-2021,Mangalore,d048,Falafel,130,international
+08-07-2021,Mangalore,d048,Spicy Quesadilla,220,international
+08-07-2021,Vizag,224e,Mango Lassi,90,juices
+08-07-2021,Vizag,5348,Brinjal 65,230,starters
+08-07-2021,Vizag,c342,Mango Lassi,90,juices
+08-07-2021,Vizag,e346,Vegan Fried Paneer,250,starters
+08-07-2021,Indore,1a4d,Brinjal 65,230,starters
+08-07-2021,Indore,2b43,Korean Noodles,200,rice and noodles
+08-07-2021,Indore,5c4e,Greek Tomato rice,200,rice and noodles
+08-07-2021,Indore,6b42,Spring Rolls,120,starters
+08-07-2021,Indore,8a47,Korean Noodles,200,rice and noodles
+08-07-2021,Indore,2340,Spicy Quesadilla,220,international
+08-07-2021,Indore,2440,Falafel,130,international
+08-07-2021,Indore,7447,Spring Rolls,120,starters
+08-07-2021,Indore,844a,Spicy Quesadilla,220,international
+08-07-2021,Indore,5747,Brinjal 65,230,starters
+08-07-2021,Indore,5747,Spicy Quesadilla,220,international
+08-07-2021,Indore,354d,Spring Rolls,120,starters
+08-07-2021,Indore,774f,Spring Rolls,120,starters
+08-07-2021,Indore,b54c,Fruit Salad,220,wraps and salads
+08-07-2021,Indore,ba49,Spicy Quesadilla,220,international
+08-07-2021,Indore,ba41,Korean Noodles,200,rice and noodles
+08-07-2021,Indore,bb4e,Spicy Quesadilla,220,international
+08-07-2021,Indore,bc46,Spicy Quesadilla,220,international
+08-07-2021,Indore,ca4c,Greek Tomato rice,200,rice and noodles
+08-07-2021,Indore,e24f,Brinjal 65,230,starters
+08-07-2021,Indore,e24f,Vegan Fried Paneer,250,starters
+08-07-2021,Indore,e941,Spicy Quesadilla,220,international
+08-07-2021,Indore,ea47,Brinjal 65,230,starters
+08-07-2021,Indore,fe48,Brinjal 65,230,starters
+08-08-2021,Chennai,8e4b,Brinjal 65,230,starters
+08-08-2021,Chennai,104c,Mango Lassi,90,juices
+08-08-2021,Chennai,a941,Spicy Quesadilla,220,international
+08-08-2021,Mumbai,3d49,Brinjal 65,230,starters
+08-08-2021,Mumbai,7.00E+45,Korean Noodles,200,rice and noodles
+08-08-2021,Mumbai,224d,Fruit Salad,220,wraps and salads
+08-08-2021,Mumbai,244f,Greek Tomato rice,200,rice and noodles
+08-08-2021,Mumbai,2841,Spring Rolls,120,starters
+08-08-2021,Mumbai,6245,Korean Noodles,200,rice and noodles
+08-08-2021,Mumbai,ac4a,Fruit Salad,220,wraps and salads
+08-08-2021,Mumbai,da40,Vegan Fried Paneer,250,starters
+08-08-2021,Mumbai,df4b,Spicy Quesadilla,220,international
+08-08-2021,Guwahati,0.00E+00,Greek Tomato rice,200,rice and noodles
+08-08-2021,Guwahati,2a43,Brinjal 65,230,starters
+08-08-2021,Guwahati,2a43,Spicy Quesadilla,220,international
+08-08-2021,Guwahati,2a49,Fruit Salad,220,wraps and salads
+08-08-2021,Guwahati,8b4f,Mango Lassi,90,juices
+08-08-2021,Guwahati,140,Korean Noodles,200,rice and noodles
+08-08-2021,Guwahati,8249,Greek Tomato rice,200,rice and noodles
+08-08-2021,Guwahati,a842,Spring Rolls,120,starters
+08-08-2021,Guwahati,ca44,Vegan Fried Paneer,250,starters
+08-08-2021,Guwahati,ca45,Brinjal 65,230,starters
+08-08-2021,Guwahati,f140,Vegan Fried Paneer,250,starters
+08-08-2021,Delhi,4f4d,Falafel,130,international
+08-08-2021,Delhi,914e,Spicy Quesadilla,220,international
+08-08-2021,Hyderabad,1.00E+46,Falafel,130,international
+08-08-2021,Hyderabad,3b41,Falafel,130,international
+08-08-2021,Hyderabad,4a4b,Greek Tomato rice,200,rice and noodles
+08-08-2021,Hyderabad,6a4d,Spring Rolls,120,starters
+08-08-2021,Hyderabad,6b41,Fruit Salad,220,wraps and salads
+08-08-2021,Hyderabad,8041,Spicy Quesadilla,220,international
+08-08-2021,Hyderabad,374e,Mashed potatoes,240,starters
+08-08-2021,Hyderabad,1342,Mashed potatoes,240,starters
+08-08-2021,Hyderabad,714e,Fruit Salad,220,wraps and salads
+08-08-2021,Hyderabad,ab44,Falafel,130,international
+08-08-2021,Hyderabad,c24e,Vegan Fried Paneer,250,starters
+08-08-2021,Hyderabad,da44,Spring Rolls,120,starters
+08-08-2021,Hyderabad,e44d,Spring Rolls,120,starters
+08-08-2021,Hyderabad,f540,Spring Rolls,120,starters
+08-08-2021,Kolkata,5043,Greek Tomato rice,200,rice and noodles
+08-08-2021,Kolkata,5043,Spring Rolls,120,starters
+08-08-2021,Kolkata,5043,Fruit Salad,220,wraps and salads
+08-08-2021,Kolkata,5043,Vegan Fried Paneer,250,starters
+08-08-2021,Kolkata,5043,Spicy Quesadilla,220,international
+08-08-2021,Chandigarh,e44c,Greek Tomato rice,200,rice and noodles
+08-08-2021,Bangalore,5f4e,Vegan Fried Paneer,250,starters
+08-08-2021,Bangalore,784b,Greek Tomato rice,200,rice and noodles
+08-08-2021,Bangalore,c544,Vegan Fried Paneer,250,starters
+08-08-2021,Bangalore,dd4e,Fruit Salad,220,wraps and salads
+08-08-2021,Bangalore,e14b,Mashed potatoes,240,starters
+08-08-2021,Bangalore,e947,Spicy Quesadilla,220,international
+08-08-2021,Mysore,0c49,Brinjal 65,230,starters
+08-08-2021,Mysore,0e4a,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,0f4a,Greek Tomato rice,200,rice and noodles
+08-08-2021,Mysore,0f4a,Falafel,130,international
+08-08-2021,Mysore,2a4d,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,3b4a,Greek Tomato rice,200,rice and noodles
+08-08-2021,Mysore,4b40,Spring Rolls,120,starters
+08-08-2021,Mysore,5.00E+49,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,5.00E+49,Spicy Quesadilla,220,international
+08-08-2021,Mysore,6a46,Mango Lassi,90,juices
+08-08-2021,Mysore,6.00E+40,Mango Lassi,90,juices
+08-08-2021,Mysore,6.00E+40,Mango Lassi,90,juices
+08-08-2021,Mysore,6.00E+40,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,6f45,Mango Lassi,90,juices
+08-08-2021,Mysore,8e4f,Brinjal 65,230,starters
+08-08-2021,Mysore,8e4f,Greek Tomato rice,200,rice and noodles
+08-08-2021,Mysore,9c43,Spring Rolls,120,starters
+08-08-2021,Mysore,9c43,Falafel,130,international
+08-08-2021,Mysore,064a,Greek Tomato rice,200,rice and noodles
+08-08-2021,Mysore,064a,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,064a,Spicy Quesadilla,220,international
+08-08-2021,Mysore,924d,Mashed potatoes,240,starters
+08-08-2021,Mysore,3446,Spring Rolls,120,starters
+08-08-2021,Mysore,8943,Mashed potatoes,240,starters
+08-08-2021,Mysore,a94c,Brinjal 65,230,starters
+08-08-2021,Mysore,a94c,Spring Rolls,120,starters
+08-08-2021,Mysore,b049,Falafel,130,international
+08-08-2021,Mysore,c24e,Mashed potatoes,240,starters
+08-08-2021,Mysore,c24e,Brinjal 65,230,starters
+08-08-2021,Mysore,cc46,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,cf43,Vegan Fried Paneer,250,starters
+08-08-2021,Mysore,e34f,Fruit Salad,220,wraps and salads
+08-08-2021,Mysore,fc43,Brinjal 65,230,starters
+08-08-2021,Mysore,fc43,Greek Tomato rice,200,rice and noodles
+08-08-2021,Coimbatore,7a48,Falafel,130,international
+08-08-2021,Coimbatore,9a41,Vegan Fried Paneer,250,starters
+08-08-2021,Coimbatore,574a,Mango Lassi,90,juices
+08-08-2021,Coimbatore,4841,Spicy Quesadilla,220,international
+08-08-2021,Coimbatore,814e,Vegan Fried Paneer,250,starters
+08-08-2021,Coimbatore,4340,Mango Lassi,90,juices
+08-08-2021,Coimbatore,924f,Mango Lassi,90,juices
+08-08-2021,Coimbatore,a549,Vegan Fried Paneer,250,starters
+08-08-2021,Coimbatore,a549,Spicy Quesadilla,220,international
+08-08-2021,Coimbatore,b641,Vegan Fried Paneer,250,starters
+08-08-2021,Coimbatore,e346,Spicy Quesadilla,220,international
+08-08-2021,Indore,0b44,Vegan Fried Paneer,250,starters
+08-08-2021,Indore,1a4d,Korean Noodles,200,rice and noodles
+08-08-2021,Indore,2b43,Brinjal 65,230,starters
+08-08-2021,Indore,5c4e,Spring Rolls,120,starters
+08-08-2021,Indore,6b42,Fruit Salad,220,wraps and salads
+08-08-2021,Indore,8a47,Falafel,130,international
+08-08-2021,Indore,2340,Spicy Quesadilla,220,international
+08-08-2021,Indore,2440,Greek Tomato rice,200,rice and noodles
+08-08-2021,Indore,7447,Mashed potatoes,240,starters
+08-08-2021,Indore,734f,Brinjal 65,230,starters
+08-08-2021,Indore,734f,Vegan Fried Paneer,250,starters
+08-08-2021,Indore,844a,Greek Tomato rice,200,rice and noodles
+08-08-2021,Indore,5747,Spicy Quesadilla,220,international
+08-08-2021,Indore,354d,Falafel,130,international
+08-08-2021,Indore,774f,Mango Lassi,90,juices
+08-08-2021,Indore,b54c,Korean Noodles,200,rice and noodles
+08-08-2021,Indore,ba49,Spicy Quesadilla,220,international
+08-08-2021,Indore,ba41,Brinjal 65,230,starters
+08-08-2021,Indore,bb4e,Brinjal 65,230,starters
+08-08-2021,Indore,bc46,Spring Rolls,120,starters
+08-08-2021,Indore,c940,Brinjal 65,230,starters
+08-08-2021,Indore,ca4c,Spicy Quesadilla,220,international
+08-08-2021,Indore,e24f,Spicy Quesadilla,220,international
+08-08-2021,Indore,e941,Brinjal 65,230,starters
+08-08-2021,Indore,ea47,Vegan Fried Paneer,250,starters
+08-08-2021,Indore,fe48,Greek Tomato rice,200,rice and noodles
+08-09-2021,Chennai,1345,Mango Lassi,90,juices
+08-09-2021,Chennai,2247,Mashed potatoes,240,starters
+08-09-2021,Chennai,904e,Vegan Fried Paneer,250,starters
+08-09-2021,Chennai,c24d,Mashed potatoes,240,starters
+08-09-2021,Mumbai,1b45,Korean Noodles,200,rice and noodles
+08-09-2021,Mumbai,4c49,Brinjal 65,230,starters
+08-09-2021,Mumbai,7.00E+45,Greek Tomato rice,200,rice and noodles
+08-09-2021,Mumbai,224d,Fruit Salad,220,wraps and salads
+08-09-2021,Mumbai,244f,Korean Noodles,200,rice and noodles
+08-09-2021,Mumbai,264a,Mashed potatoes,240,starters
+08-09-2021,Mumbai,8240,Spring Rolls,120,starters
+08-09-2021,Mumbai,1041,Spicy Quesadilla,220,international
+08-09-2021,Mumbai,a649,Spring Rolls,120,starters
+08-09-2021,Mumbai,ac4a,Greek Tomato rice,200,rice and noodles
+08-09-2021,Mumbai,d242,Korean Noodles,200,rice and noodles
+08-09-2021,Guwahati,314d,Brinjal 65,230,starters
+08-09-2021,Guwahati,414a,Spring Rolls,120,starters
+08-09-2021,Guwahati,ca45,Falafel,130,international
+08-09-2021,Guwahati,e44b,Brinjal 65,230,starters
+08-09-2021,Hyderabad,1.00E+46,Greek Tomato rice,200,rice and noodles
+08-09-2021,Hyderabad,3b41,Brinjal 65,230,starters
+08-09-2021,Hyderabad,6b41,Korean Noodles,200,rice and noodles
+08-09-2021,Hyderabad,9.00E+45,Brinjal 65,230,starters
+08-09-2021,Hyderabad,1544,Mango Lassi,90,juices
+08-09-2021,Hyderabad,4340,Spring Rolls,120,starters
+08-09-2021,Hyderabad,8041,Falafel,130,international
+08-09-2021,Hyderabad,8345,Korean Noodles,200,rice and noodles
+08-09-2021,Hyderabad,914f,Spring Rolls,120,starters
+08-09-2021,Hyderabad,404a,Mango Lassi,90,juices
+08-09-2021,Hyderabad,6145,Spring Rolls,120,starters
+08-09-2021,Hyderabad,5049,Spring Rolls,120,starters
+08-09-2021,Hyderabad,1342,Spring Rolls,120,starters
+08-09-2021,Hyderabad,204e,Spicy Quesadilla,220,international
+08-09-2021,Hyderabad,8247,Mashed potatoes,240,starters
+08-09-2021,Hyderabad,bb45,Korean Noodles,200,rice and noodles
+08-09-2021,Hyderabad,c24e,Mango Lassi,90,juices
+08-09-2021,Hyderabad,ca49,Fruit Salad,220,wraps and salads
+08-09-2021,Hyderabad,da44,Korean Noodles,200,rice and noodles
+08-09-2021,Hyderabad,e44d,Greek Tomato rice,200,rice and noodles
+08-09-2021,Hyderabad,ec40,Mango Lassi,90,juices
+08-09-2021,Hyderabad,f540,Mango Lassi,90,juices
+08-09-2021,Kolkata,5043,Mashed potatoes,240,starters
+08-09-2021,Kolkata,5043,Brinjal 65,230,starters
+08-09-2021,Kolkata,5043,Greek Tomato rice,200,rice and noodles
+08-09-2021,Kolkata,5043,Korean Noodles,200,rice and noodles
+08-09-2021,Kolkata,5043,Fruit Salad,220,wraps and salads
+08-09-2021,Kolkata,5043,Vegan Fried Paneer,250,starters
+08-09-2021,Chandigarh,9b49,Brinjal 65,230,starters
+08-09-2021,Chandigarh,9.00E+42,Fruit Salad,220,wraps and salads
+08-09-2021,Chandigarh,234e,Korean Noodles,200,rice and noodles
+08-09-2021,Chandigarh,214a,Brinjal 65,230,starters
+08-09-2021,Chandigarh,d449,Vegan Fried Paneer,250,starters
+08-09-2021,Chandigarh,e44c,Falafel,130,international
+08-09-2021,Bangalore,2a4f,Spring Rolls,120,starters
+08-09-2021,Bangalore,2a4f,Fruit Salad,220,wraps and salads
+08-09-2021,Bangalore,5f4e,Korean Noodles,200,rice and noodles
+08-09-2021,Bangalore,104d,Korean Noodles,200,rice and noodles
+08-09-2021,Bangalore,784b,Fruit Salad,220,wraps and salads
+08-09-2021,Bangalore,c64d,Greek Tomato rice,200,rice and noodles
+08-09-2021,Mysore,0c49,Spring Rolls,120,starters
+08-09-2021,Mysore,0e4a,Fruit Salad,220,wraps and salads
+08-09-2021,Mysore,0f4a,Mashed potatoes,240,starters
+08-09-2021,Mysore,2a4d,Falafel,130,international
+08-09-2021,Mysore,3b4a,Mashed potatoes,240,starters
+08-09-2021,Mysore,4b40,Korean Noodles,200,rice and noodles
+08-09-2021,Mysore,5.00E+49,Korean Noodles,200,rice and noodles
+08-09-2021,Mysore,5.00E+49,Spring Rolls,120,starters
+08-09-2021,Mysore,6a46,Spring Rolls,120,starters
+08-09-2021,Mysore,6c41,Falafel,130,international
+08-09-2021,Mysore,7d40,Brinjal 65,230,starters
+08-09-2021,Mysore,8e4f,Brinjal 65,230,starters
+08-09-2021,Mysore,8e4f,Spring Rolls,120,starters
+08-09-2021,Mysore,9c43,Vegan Fried Paneer,250,starters
+08-09-2021,Mysore,9c43,Spicy Quesadilla,220,international
+08-09-2021,Mysore,064a,Spring Rolls,120,starters
+08-09-2021,Mysore,1344,Korean Noodles,200,rice and noodles
+08-09-2021,Mysore,1546,Mango Lassi,90,juices
+08-09-2021,Mysore,884c,Spring Rolls,120,starters
+08-09-2021,Mysore,094f,Fruit Salad,220,wraps and salads
+08-09-2021,Mysore,064a,Greek Tomato rice,200,rice and noodles
+08-09-2021,Mysore,064a,Spring Rolls,120,starters
+08-09-2021,Mysore,924d,Mango Lassi,90,juices
+08-09-2021,Mysore,284e,Fruit Salad,220,wraps and salads
+08-09-2021,Mysore,284e,Spicy Quesadilla,220,international
+08-09-2021,Mysore,3446,Greek Tomato rice,200,rice and noodles
+08-09-2021,Mysore,474f,Vegan Fried Paneer,250,starters
+08-09-2021,Mysore,aa42,Spring Rolls,120,starters
+08-09-2021,Mysore,b049,Brinjal 65,230,starters
+08-09-2021,Mysore,c24e,Spring Rolls,120,starters
+08-09-2021,Mysore,c24e,Fruit Salad,220,wraps and salads
+08-09-2021,Mysore,c845,Fruit Salad,220,wraps and salads
+08-09-2021,Mysore,cc46,Spring Rolls,120,starters
+08-09-2021,Mysore,cf43,Mango Lassi,90,juices
+08-09-2021,Mysore,e44e,Vegan Fried Paneer,250,starters
+08-09-2021,Mysore,fc4e,Spring Rolls,120,starters
+08-09-2021,Coimbatore,5.00E+48,Vegan Fried Paneer,250,starters
+08-09-2021,Coimbatore,5.00E+48,Spicy Quesadilla,220,international
+08-09-2021,Coimbatore,6b48,Mango Lassi,90,juices
+08-09-2021,Coimbatore,204e,Mango Lassi,90,juices
+08-09-2021,Coimbatore,204e,Vegan Fried Paneer,250,starters
+08-09-2021,Coimbatore,204e,Spicy Quesadilla,220,international
+08-09-2021,Coimbatore,a840,Mango Lassi,90,juices
+08-09-2021,Coimbatore,be4c,Vegan Fried Paneer,250,starters
+08-09-2021,Indore,0b44,Vegan Fried Paneer,250,starters
+08-09-2021,Indore,1a4d,Brinjal 65,230,starters
+08-09-2021,Indore,2b43,Korean Noodles,200,rice and noodles
+08-09-2021,Indore,6b42,Falafel,130,international
+08-09-2021,Indore,8a47,Brinjal 65,230,starters
+08-09-2021,Indore,1247,Mashed potatoes,240,starters
+08-09-2021,Indore,2340,Spring Rolls,120,starters
+08-09-2021,Indore,2440,Brinjal 65,230,starters
+08-09-2021,Indore,7447,Korean Noodles,200,rice and noodles
+08-09-2021,Indore,1649,Brinjal 65,230,starters
+08-09-2021,Indore,734f,Brinjal 65,230,starters
+08-09-2021,Indore,844a,Brinjal 65,230,starters
+08-09-2021,Indore,843,Brinjal 65,230,starters
+08-09-2021,Indore,354d,Fruit Salad,220,wraps and salads
+08-09-2021,Indore,774f,Vegan Fried Paneer,250,starters
+08-09-2021,Indore,ba41,Fruit Salad,220,wraps and salads
+08-09-2021,Indore,bb4e,Vegan Fried Paneer,250,starters
+08-09-2021,Indore,bc46,Brinjal 65,230,starters
+08-09-2021,Indore,c940,Mango Lassi,90,juices
+08-09-2021,Indore,ca4c,Greek Tomato rice,200,rice and noodles
+08-09-2021,Indore,e24f,Greek Tomato rice,200,rice and noodles
+08-09-2021,Indore,e941,Greek Tomato rice,200,rice and noodles
+08-09-2021,Indore,ea47,Spring Rolls,120,starters
+08-09-2021,Indore,fe48,Spicy Quesadilla,220,international
+08-12-2021,Chennai,cc4f,Chicken Fried rice,350,rice and noodles
+08-12-2021,Chennai,3d4e,Gobi 65,130,starters
+08-12-2021,Chennai,4.00E+47,Vegetable salad,170,wraps and salads
+08-12-2021,Chennai,4.00E+47,Buddha Veg bowl,280,international
+08-12-2021,Chennai,424d,Buddha Veg bowl,280,international
+08-12-2021,Chennai,004d,Chicken Fried rice,350,rice and noodles
+08-12-2021,Chennai,904e,Vegetarian noodles,200,rice and noodles
+08-12-2021,Chennai,de41,Veg wrap,140,wraps and salads
+08-12-2021,Mumbai,0d4b,Veg wrap,140,wraps and salads
+08-12-2021,Mumbai,1b45,Buddha Veg bowl,280,international
+08-12-2021,Mumbai,2f47,Bolognese pasta,270,international
+08-12-2021,Mumbai,4c4f,Gobi 65,130,starters
+08-12-2021,Mumbai,5a40,vegetable sandwich,130,bread
+08-12-2021,Mumbai,7.00E+45,chilli parotta,110,bread
+08-12-2021,Mumbai,244,Vegetable salad,170,wraps and salads
+08-12-2021,Mumbai,224d,Veg wrap,140,wraps and salads
+08-12-2021,Mumbai,244f,Bolognese pasta,270,international
+08-12-2021,Mumbai,1041,Buddha Veg bowl,280,international
+08-12-2021,Mumbai,2440,Chicken Fried rice,350,rice and noodles
+08-12-2021,Mumbai,2841,fish fried rice,280,rice and noodles
+08-12-2021,Mumbai,6245,Bolognese pasta,270,international
+08-12-2021,Mumbai,a942,Chicken Fried rice,350,rice and noodles
+08-12-2021,Mumbai,a649,Bolognese pasta,270,international
+08-12-2021,Mumbai,ac4a,Vegetable salad,170,wraps and salads
+08-12-2021,Mumbai,d242,Bolognese pasta,270,international
+08-12-2021,Mumbai,df4b,fish fried rice,280,rice and noodles
+08-12-2021,Mumbai,e643,chilli parotta,110,bread
+08-12-2021,Mumbai,ee43,Vegetable salad,170,wraps and salads
+08-12-2021,Guwahati,6e4d,fish fried rice,280,rice and noodles
+08-12-2021,Guwahati,104b,Chicken Fried rice,350,rice and noodles
+08-12-2021,Guwahati,314d,butter naan,60,bread
+08-12-2021,Guwahati,5446,Vegetable salad,170,wraps and salads
+08-12-2021,Guwahati,364c,Chicken Fried rice,350,rice and noodles
+08-12-2021,Guwahati,6141,Bolognese pasta,270,international
+08-12-2021,Guwahati,6347,butter naan,60,bread
+08-12-2021,Guwahati,764d,Veg wrap,140,wraps and salads
+08-12-2021,Guwahati,414a,Buddha Veg bowl,280,international
+08-12-2021,Guwahati,674d,Buddha Veg bowl,280,international
+08-12-2021,Guwahati,b74f,Buddha Veg bowl,280,international
+08-12-2021,Guwahati,ca45,butter naan,60,bread
+08-12-2021,Guwahati,d04b,vegetable sandwich,130,bread
+08-12-2021,Guwahati,e44b,Vegetable salad,170,wraps and salads
+08-12-2021,Guwahati,f348,Buddha Veg bowl,280,international
+08-12-2021,Delhi,3e4b,vegetable sandwich,130,bread
+08-12-2021,Delhi,4c47,Buddha Veg bowl,280,international
+08-12-2021,Delhi,4c47,Gobi 65,130,starters
+08-12-2021,Delhi,4f4d,Chicken Fried rice,350,rice and noodles
+08-12-2021,Delhi,4f4d,Gobi 65,130,starters
+08-12-2021,Delhi,914e,Bolognese pasta,270,international
+08-12-2021,Delhi,de42,Bolognese pasta,270,international
+08-12-2021,Hyderabad,1c4e,Gobi 65,130,starters
+08-12-2021,Hyderabad,1.00E+46,chilli parotta,110,bread
+08-12-2021,Hyderabad,3b41,Gobi 65,130,starters
+08-12-2021,Hyderabad,5c4c,chilli parotta,110,bread
+08-12-2021,Hyderabad,1044,Vegetable salad,170,wraps and salads
+08-12-2021,Hyderabad,2649,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,8345,Bolognese pasta,270,international
+08-12-2021,Hyderabad,914f,vegetable sandwich,130,bread
+08-12-2021,Hyderabad,7941,Gobi 65,130,starters
+08-12-2021,Hyderabad,954c,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,954f,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,6145,chilli parotta,110,bread
+08-12-2021,Hyderabad,5049,Bolognese pasta,270,international
+08-12-2021,Hyderabad,5048,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,204e,Gobi 65,130,starters
+08-12-2021,Hyderabad,8247,Gobi 65,130,starters
+08-12-2021,Hyderabad,a548,Gobi 65,130,starters
+08-12-2021,Hyderabad,a042,Buddha Veg bowl,280,international
+08-12-2021,Hyderabad,ab44,Vegetarian noodles,200,rice and noodles
+08-12-2021,Hyderabad,bb45,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,d249,Bolognese pasta,270,international
+08-12-2021,Hyderabad,d442,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,d842,Buddha Veg bowl,280,international
+08-12-2021,Hyderabad,da44,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,e244,Chicken Fried rice,350,rice and noodles
+08-12-2021,Hyderabad,e649,chilli parotta,110,bread
+08-12-2021,Hyderabad,ec40,Bolognese pasta,270,international
+08-12-2021,Kolkata,5043,Chicken Fried rice,350,rice and noodles
+08-12-2021,Kolkata,5043,Vegetable salad,170,wraps and salads
+08-12-2021,Kolkata,5043,Buddha Veg bowl,280,international
+08-12-2021,Kolkata,5043,Veg wrap,140,wraps and salads
+08-12-2021,Kolkata,5043,Vegetarian noodles,200,rice and noodles
+08-12-2021,Kolkata,5043,apple milkshake,190,juices
+08-12-2021,Jaipur,974a,fish fried rice,280,rice and noodles
+08-12-2021,Jaipur,7744,chilli parotta,110,bread
+08-12-2021,Jaipur,d54c,Gobi 65,130,starters
+08-12-2021,Jaipur,d54c,fish fried rice,280,rice and noodles
+08-12-2021,Pune,2942,Gobi 65,130,starters
+08-12-2021,Pune,804b,Buddha Veg bowl,280,international
+08-12-2021,Chandigarh,5d41,vegetable sandwich,130,bread
+08-12-2021,Chandigarh,8647,Vegetable salad,170,wraps and salads
+08-12-2021,Chandigarh,954d,chilli parotta,110,bread
+08-12-2021,Chandigarh,024d,Chicken Fried rice,350,rice and noodles
+08-12-2021,Chandigarh,214a,Vegetable salad,170,wraps and salads
+08-12-2021,Chandigarh,a243,Vegetable salad,170,wraps and salads
+08-12-2021,Chandigarh,d449,Buddha Veg bowl,280,international
+08-12-2021,Chandigarh,fb4e,Veg wrap,140,wraps and salads
+08-12-2021,Bangalore,2a4f,Vegetable salad,170,wraps and salads
+08-12-2021,Bangalore,2d4c,Bolognese pasta,270,international
+08-12-2021,Bangalore,5c48,Bolognese pasta,270,international
+08-12-2021,Bangalore,5f4e,Bolognese pasta,270,international
+08-12-2021,Bangalore,6a46,Veg wrap,140,wraps and salads
+08-12-2021,Bangalore,6f46,Vegetarian noodles,200,rice and noodles
+08-12-2021,Bangalore,9.00E+49,Gobi 65,130,starters
+08-12-2021,Bangalore,104d,Vegetable salad,170,wraps and salads
+08-12-2021,Bangalore,a34b,Veg wrap,140,wraps and salads
+08-12-2021,Bangalore,a448,chilli parotta,110,bread
+08-12-2021,Bangalore,c544,vegetable sandwich,130,bread
+08-12-2021,Bangalore,c64d,Buddha Veg bowl,280,international
+08-12-2021,Bangalore,dd4e,Buddha Veg bowl,280,international
+08-12-2021,Bangalore,dd4e,fish fried rice,280,rice and noodles
+08-12-2021,Bangalore,f24a,Chicken Fried rice,350,rice and noodles
+08-12-2021,Bangalore,fb40,butter naan,60,bread
+08-12-2021,Trivandrum,7841,Vegetarian noodles,200,rice and noodles
+08-12-2021,Trivandrum,7841,Vegetarian noodles,200,rice and noodles
+08-12-2021,Mysore,4a42,Gobi 65,130,starters
+08-12-2021,Mysore,5.00E+49,Chicken Fried rice,350,rice and noodles
+08-12-2021,Mysore,5.00E+49,Veg wrap,140,wraps and salads
+08-12-2021,Mysore,6c41,butter naan,60,bread
+08-12-2021,Mysore,6c41,Buddha Veg bowl,280,international
+08-12-2021,Mysore,7d40,vegetable sandwich,130,bread
+08-12-2021,Mysore,8e4f,chilli parotta,110,bread
+08-12-2021,Mysore,064a,Vegetarian noodles,200,rice and noodles
+08-12-2021,Mysore,1344,Chicken Fried rice,350,rice and noodles
+08-12-2021,Mysore,4645,Buddha Veg bowl,280,international
+08-12-2021,Mysore,924d,Chicken Fried rice,350,rice and noodles
+08-12-2021,Mysore,aa42,Buddha Veg bowl,280,international
+08-12-2021,Mysore,b049,Bolognese pasta,270,international
+08-12-2021,Mysore,c845,Buddha Veg bowl,280,international
+08-12-2021,Mysore,c84a,Chicken Fried rice,350,rice and noodles
+08-12-2021,Mysore,cb4f,Chicken Fried rice,350,rice and noodles
+08-12-2021,Coimbatore,1.00E+48,Buddha Veg bowl,280,international
+08-12-2021,Coimbatore,2c48,Gobi 65,130,starters
+08-12-2021,Coimbatore,5.00E+48,Gobi 65,130,starters
+08-12-2021,Coimbatore,6.00E+40,chilli parotta,110,bread
+08-12-2021,Coimbatore,9c45,Buddha Veg bowl,280,international
+08-12-2021,Coimbatore,304e,Buddha Veg bowl,280,international
+08-12-2021,Coimbatore,574a,apple milkshake,190,juices
+08-12-2021,Coimbatore,724a,Buddha Veg bowl,280,international
+08-12-2021,Coimbatore,984b,chilli parotta,110,bread
+08-12-2021,Coimbatore,304e,Gobi 65,130,starters
+08-12-2021,Coimbatore,534c,Gobi 65,130,starters
+08-12-2021,Coimbatore,574d,chilli parotta,110,bread
+08-12-2021,Coimbatore,be4c,Buddha Veg bowl,280,international
+08-12-2021,Coimbatore,d844,Gobi 65,130,starters
+08-12-2021,Coimbatore,ee4a,chilli parotta,110,bread
+08-12-2021,Coimbatore,ef40,chilli parotta,110,bread
+08-12-2021,Coimbatore,fa44,chilli parotta,110,bread
+08-12-2021,Vizag,8d44,Vegetable salad,170,wraps and salads
+08-12-2021,Vizag,5348,Gobi 65,130,starters
+08-12-2021,Vizag,a840,Buddha Veg bowl,280,international
+08-12-2021,Vizag,c342,fish fried rice,280,rice and noodles
+08-12-2021,Vizag,cf47,fish fried rice,280,rice and noodles
+08-12-2021,Vizag,e346,Buddha Veg bowl,280,international
+08-12-2021,Indore,1a4d,Vegetable salad,170,wraps and salads
+08-12-2021,Indore,2b43,Gobi 65,130,starters
+08-12-2021,Indore,6b42,fish fried rice,280,rice and noodles
+08-12-2021,Indore,8a47,chilli parotta,110,bread
+08-12-2021,Indore,2340,chilli parotta,110,bread
+08-12-2021,Indore,7447,Buddha Veg bowl,280,international
+08-12-2021,Indore,5649,butter naan,60,bread
+08-12-2021,Indore,9045,Bolognese pasta,270,international
+08-12-2021,Indore,844a,Vegetarian noodles,200,rice and noodles
+08-12-2021,Indore,5747,chilli parotta,110,bread
+08-12-2021,Indore,774f,chilli parotta,110,bread
+08-12-2021,Indore,b54c,Bolognese pasta,270,international
+08-12-2021,Indore,ba49,vegetable sandwich,130,bread
+08-12-2021,Indore,ba41,Gobi 65,130,starters
+08-12-2021,Indore,bb4e,Gobi 65,130,starters
+08-12-2021,Indore,c940,Buddha Veg bowl,280,international
+08-12-2021,Indore,ca4c,Gobi 65,130,starters
+08-12-2021,Indore,d64b,fish fried rice,280,rice and noodles
+08-12-2021,Indore,e941,Chicken Fried rice,350,rice and noodles
+08-12-2021,Indore,ea47,chilli parotta,110,bread
+8/13/2021,Chennai,8c46,Buddha Veg bowl,280,international
+8/13/2021,Chennai,624c,vegetable sandwich,130,bread
+8/13/2021,Chennai,324d,Veg wrap,140,wraps and salads
+8/13/2021,Chennai,904e,fish fried rice,280,rice and noodles
+8/13/2021,Chennai,a748,Vegetable salad,170,wraps and salads
+8/13/2021,Chennai,a741,fish fried rice,280,rice and noodles
+8/13/2021,Mumbai,2f47,vegetable sandwich,130,bread
+8/13/2021,Mumbai,4c4f,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mumbai,7d4f,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mumbai,7.00E+45,Veg wrap,140,wraps and salads
+8/13/2021,Mumbai,244,vegetable sandwich,130,bread
+8/13/2021,Mumbai,244f,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mumbai,2542,vegetable sandwich,130,bread
+8/13/2021,Mumbai,2348,Vegetable salad,170,wraps and salads
+8/13/2021,Mumbai,2440,butter naan,60,bread
+8/13/2021,Mumbai,6245,Gobi 65,130,starters
+8/13/2021,Mumbai,7449,Bolognese pasta,270,international
+8/13/2021,Mumbai,834f,Veg wrap,140,wraps and salads
+8/13/2021,Mumbai,a942,fish fried rice,280,rice and noodles
+8/13/2021,Mumbai,b64b,fish fried rice,280,rice and noodles
+8/13/2021,Mumbai,c446,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mumbai,c446,Vegetable salad,170,wraps and salads
+8/13/2021,Mumbai,d242,Gobi 65,130,starters
+8/13/2021,Mumbai,da45,Chicken Fried rice,350,rice and noodles
+8/13/2021,Guwahati,2a43,Buddha Veg bowl,280,international
+8/13/2021,Guwahati,5f45,Bolognese pasta,270,international
+8/13/2021,Guwahati,8b4f,Veg wrap,140,wraps and salads
+8/13/2021,Guwahati,104b,fish fried rice,280,rice and noodles
+8/13/2021,Guwahati,314d,Gobi 65,130,starters
+8/13/2021,Guwahati,6740,Buddha Veg bowl,280,international
+8/13/2021,Guwahati,8249,vegetable sandwich,130,bread
+8/13/2021,Guwahati,445,Vegetable salad,170,wraps and salads
+8/13/2021,Guwahati,445,Veg wrap,140,wraps and salads
+8/13/2021,Guwahati,364c,chilli parotta,110,bread
+8/13/2021,Guwahati,6347,fish fried rice,280,rice and noodles
+8/13/2021,Guwahati,764d,Buddha Veg bowl,280,international
+8/13/2021,Guwahati,5742,Buddha Veg bowl,280,international
+8/13/2021,Guwahati,7042,Chicken Fried rice,350,rice and noodles
+8/13/2021,Guwahati,a842,Bolognese pasta,270,international
+8/13/2021,Guwahati,b140,fish fried rice,280,rice and noodles
+8/13/2021,Guwahati,ca44,Bolognese pasta,270,international
+8/13/2021,Guwahati,ca45,Bolognese pasta,270,international
+8/13/2021,Guwahati,f742,vegetable sandwich,130,bread
+8/13/2021,Delhi,4c47,Chicken Fried rice,350,rice and noodles
+8/13/2021,Delhi,4f4d,Veg wrap,140,wraps and salads
+8/13/2021,Delhi,de42,Vegetarian noodles,200,rice and noodles
+8/13/2021,Hyderabad,1.00E+46,Vegetable salad,170,wraps and salads
+8/13/2021,Hyderabad,3b41,Buddha Veg bowl,280,international
+8/13/2021,Hyderabad,4.00E+47,Vegetable salad,170,wraps and salads
+8/13/2021,Hyderabad,4f4a,Chicken Fried rice,350,rice and noodles
+8/13/2021,Hyderabad,6a4d,Bolognese pasta,270,international
+8/13/2021,Hyderabad,6b41,Chicken Fried rice,350,rice and noodles
+8/13/2021,Hyderabad,7d44,Chicken Fried rice,350,rice and noodles
+8/13/2021,Hyderabad,004e,Veg wrap,140,wraps and salads
+8/13/2021,Hyderabad,1044,Buddha Veg bowl,280,international
+8/13/2021,Hyderabad,8043,Chicken Fried rice,350,rice and noodles
+8/13/2021,Hyderabad,914f,Bolognese pasta,270,international
+8/13/2021,Hyderabad,144f,Chicken Fried rice,350,rice and noodles
+8/13/2021,Hyderabad,404a,Bolognese pasta,270,international
+8/13/2021,Hyderabad,6145,Bolognese pasta,270,international
+8/13/2021,Hyderabad,5049,Vegetable salad,170,wraps and salads
+8/13/2021,Hyderabad,1342,Veg wrap,140,wraps and salads
+8/13/2021,Hyderabad,5048,fish fried rice,280,rice and noodles
+8/13/2021,Hyderabad,1641,Bolognese pasta,270,international
+8/13/2021,Hyderabad,464a,Veg wrap,140,wraps and salads
+8/13/2021,Hyderabad,a548,apple milkshake,190,juices
+8/13/2021,Hyderabad,ab48,Chicken Fried rice,350,rice and noodles
+8/13/2021,Hyderabad,ab44,fish fried rice,280,rice and noodles
+8/13/2021,Hyderabad,d842,Gobi 65,130,starters
+8/13/2021,Hyderabad,e244,vegetable sandwich,130,bread
+8/13/2021,Hyderabad,ee4d,Bolognese pasta,270,international
+8/13/2021,Hyderabad,f84d,Chicken Fried rice,350,rice and noodles
+8/13/2021,Noida,cc42,Chicken Fried rice,350,rice and noodles
+8/13/2021,Noida,cc42,Buddha Veg bowl,280,international
+8/13/2021,Noida,cc42,Gobi 65,130,starters
+8/13/2021,Noida,cc42,Vegetarian noodles,200,rice and noodles
+8/13/2021,Kolkata,5043,Chicken Fried rice,350,rice and noodles
+8/13/2021,Kolkata,5043,Vegetable salad,170,wraps and salads
+8/13/2021,Kolkata,5043,Buddha Veg bowl,280,international
+8/13/2021,Kolkata,5043,Veg wrap,140,wraps and salads
+8/13/2021,Jaipur,974a,Gobi 65,130,starters
+8/13/2021,Jaipur,540,Gobi 65,130,starters
+8/13/2021,Jaipur,6249,Chicken Fried rice,350,rice and noodles
+8/13/2021,Pune,2942,Buddha Veg bowl,280,international
+8/13/2021,Pune,934f,Bolognese pasta,270,international
+8/13/2021,Pune,b64d,Bolognese pasta,270,international
+8/13/2021,Pune,df41,Bolognese pasta,270,international
+8/13/2021,Pune,fe4d,chilli parotta,110,bread
+8/13/2021,Chandigarh,5d41,Bolognese pasta,270,international
+8/13/2021,Chandigarh,9b49,chilli parotta,110,bread
+8/13/2021,Chandigarh,8647,Chicken Fried rice,350,rice and noodles
+8/13/2021,Chandigarh,234e,chilli parotta,110,bread
+8/13/2021,Chandigarh,024d,Chicken Fried rice,350,rice and noodles
+8/13/2021,Chandigarh,214a,Veg wrap,140,wraps and salads
+8/13/2021,Chandigarh,a243,Gobi 65,130,starters
+8/13/2021,Chandigarh,ce44,Bolognese pasta,270,international
+8/13/2021,Chandigarh,e44c,Vegetable salad,170,wraps and salads
+8/13/2021,Bangalore,5c4d,Vegetable salad,170,wraps and salads
+8/13/2021,Bangalore,5c48,Bolognese pasta,270,international
+8/13/2021,Bangalore,5f4e,Veg wrap,140,wraps and salads
+8/13/2021,Bangalore,6a46,Buddha Veg bowl,280,international
+8/13/2021,Bangalore,104d,Gobi 65,130,starters
+8/13/2021,Bangalore,784b,fish fried rice,280,rice and noodles
+8/13/2021,Bangalore,a34b,vegetable sandwich,130,bread
+8/13/2021,Bangalore,a448,Buddha Veg bowl,280,international
+8/13/2021,Bangalore,c544,Vegetarian noodles,200,rice and noodles
+8/13/2021,Bangalore,dd4e,Vegetable salad,170,wraps and salads
+8/13/2021,Bangalore,dd4e,Vegetarian noodles,200,rice and noodles
+8/13/2021,Bangalore,f24a,fish fried rice,280,rice and noodles
+8/13/2021,Bangalore,f94d,Vegetarian noodles,200,rice and noodles
+8/13/2021,Bangalore,fb40,Gobi 65,130,starters
+8/13/2021,Trivandrum,7841,Vegetarian noodles,200,rice and noodles
+8/13/2021,Mysore,0e4a,Bolognese pasta,270,international
+8/13/2021,Mysore,2a4d,Buddha Veg bowl,280,international
+8/13/2021,Mysore,3.00E+45,Bolognese pasta,270,international
+8/13/2021,Mysore,4b40,Gobi 65,130,starters
+8/13/2021,Mysore,5.00E+49,Buddha Veg bowl,280,international
+8/13/2021,Mysore,5.00E+49,chilli parotta,110,bread
+8/13/2021,Mysore,6c41,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mysore,6.00E+40,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mysore,6.00E+40,fish fried rice,280,rice and noodles
+8/13/2021,Mysore,7d40,Buddha Veg bowl,280,international
+8/13/2021,Mysore,8e4f,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mysore,064a,Bolognese pasta,270,international
+8/13/2021,Mysore,4645,Buddha Veg bowl,280,international
+8/13/2021,Mysore,4645,Buddha Veg bowl,280,international
+8/13/2021,Mysore,884c,Bolognese pasta,270,international
+8/13/2021,Mysore,9841,chilli parotta,110,bread
+8/13/2021,Mysore,094f,vegetable sandwich,130,bread
+8/13/2021,Mysore,474f,fish fried rice,280,rice and noodles
+8/13/2021,Mysore,a94c,Vegetable salad,170,wraps and salads
+8/13/2021,Mysore,a94c,chilli parotta,110,bread
+8/13/2021,Mysore,b049,Buddha Veg bowl,280,international
+8/13/2021,Mysore,c845,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mysore,c84a,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mysore,cb4f,Buddha Veg bowl,280,international
+8/13/2021,Mysore,cf43,Buddha Veg bowl,280,international
+8/13/2021,Mysore,e34f,Chicken Fried rice,350,rice and noodles
+8/13/2021,Mysore,e44e,Chicken Fried rice,350,rice and noodles
+8/13/2021,Coimbatore,5.00E+41,chilli parotta,110,bread
+8/13/2021,Coimbatore,7848,Buddha Veg bowl,280,international
+8/13/2021,Coimbatore,304e,chilli parotta,110,bread
+8/13/2021,Coimbatore,574d,Buddha Veg bowl,280,international
+8/13/2021,Coimbatore,574d,Gobi 65,130,starters
+8/13/2021,Coimbatore,804d,Buddha Veg bowl,280,international
+8/13/2021,Coimbatore,804d,chilli parotta,110,bread
+8/13/2021,Coimbatore,d74e,Gobi 65,130,starters
+8/13/2021,Indore,1a4d,butter naan,60,bread
+8/13/2021,Indore,2b43,chilli parotta,110,bread
+8/13/2021,Indore,5c4e,Chicken Fried rice,350,rice and noodles
+8/13/2021,Indore,6b42,Gobi 65,130,starters
+8/13/2021,Indore,8a47,butter naan,60,bread
+8/13/2021,Indore,1247,Bolognese pasta,270,international
+8/13/2021,Indore,2340,Gobi 65,130,starters
+8/13/2021,Indore,7447,butter naan,60,bread
+8/13/2021,Indore,1649,Gobi 65,130,starters
+8/13/2021,Indore,5649,Buddha Veg bowl,280,international
+8/13/2021,Indore,9045,fish fried rice,280,rice and noodles
+8/13/2021,Indore,843,fish fried rice,280,rice and noodles
+8/13/2021,Indore,5747,Gobi 65,130,starters
+8/13/2021,Indore,354d,Bolognese pasta,270,international
+8/13/2021,Indore,774f,Bolognese pasta,270,international
+8/13/2021,Indore,ac43,apple milkshake,190,juices
+8/13/2021,Indore,b54c,Gobi 65,130,starters
+8/13/2021,Indore,ba49,vegetable sandwich,130,bread
+8/13/2021,Indore,ba41,Vegetarian noodles,200,rice and noodles
+8/13/2021,Indore,bb4e,Gobi 65,130,starters
+8/13/2021,Indore,bc46,Veg wrap,140,wraps and salads
+8/13/2021,Indore,c940,Gobi 65,130,starters
+8/13/2021,Indore,ca4c,Buddha Veg bowl,280,international
+8/13/2021,Indore,d64b,Buddha Veg bowl,280,international
+8/13/2021,Indore,e941,butter naan,60,bread
+8/13/2021,Indore,ea47,Vegetable salad,170,wraps and salads
+8/13/2021,Indore,f546,Veg wrap,140,wraps and salads
+8/13/2021,Indore,fe48,Buddha Veg bowl,280,international
+8/14/2021,Chennai,a941,Gobi 65,130,starters
+8/14/2021,Chennai,c24d,vegetable sandwich,130,bread
+8/14/2021,Mumbai,2f47,Gobi 65,130,starters
+8/14/2021,Mumbai,3f45,Chicken Fried rice,350,rice and noodles
+8/14/2021,Mumbai,4c4f,vegetable sandwich,130,bread
+8/14/2021,Mumbai,5e4e,Bolognese pasta,270,international
+8/14/2021,Mumbai,7.00E+45,Vegetable salad,170,wraps and salads
+8/14/2021,Mumbai,124a,Bolognese pasta,270,international
+8/14/2021,Mumbai,224d,Veg wrap,140,wraps and salads
+8/14/2021,Mumbai,244f,fish fried rice,280,rice and noodles
+8/14/2021,Mumbai,264a,Chicken Fried rice,350,rice and noodles
+8/14/2021,Mumbai,8240,fish fried rice,280,rice and noodles
+8/14/2021,Mumbai,1041,Bolognese pasta,270,international
+8/14/2021,Mumbai,2841,vegetable sandwich,130,bread
+8/14/2021,Mumbai,a649,vegetable sandwich,130,bread
+8/14/2021,Mumbai,ac4a,Veg wrap,140,wraps and salads
+8/14/2021,Mumbai,b64b,Veg wrap,140,wraps and salads
+8/14/2021,Mumbai,c446,Gobi 65,130,starters
+8/14/2021,Mumbai,c446,Veg wrap,140,wraps and salads
+8/14/2021,Mumbai,d440,Vegetarian noodles,200,rice and noodles
+8/14/2021,Mumbai,da45,vegetable sandwich,130,bread
+8/14/2021,Mumbai,df4b,apple milkshake,190,juices
+8/14/2021,Mumbai,e643,Buddha Veg bowl,280,international
+8/14/2021,Mumbai,ff47,Gobi 65,130,starters
+8/14/2021,Guwahati,2a43,Gobi 65,130,starters
+8/14/2021,Guwahati,5f45,Chicken Fried rice,350,rice and noodles
+8/14/2021,Guwahati,6a47,Bolognese pasta,270,international
+8/14/2021,Guwahati,6c41,butter naan,60,bread
+8/14/2021,Guwahati,9c4b,Chicken Fried rice,350,rice and noodles
+8/14/2021,Guwahati,474c,Chicken Fried rice,350,rice and noodles
+8/14/2021,Guwahati,474c,Vegetarian noodles,200,rice and noodles
+8/14/2021,Guwahati,6740,Veg wrap,140,wraps and salads
+8/14/2021,Guwahati,514d,Chicken Fried rice,350,rice and noodles
+8/14/2021,Guwahati,5548,Chicken Fried rice,350,rice and noodles
+8/14/2021,Guwahati,7042,chilli parotta,110,bread
+8/14/2021,Guwahati,b74f,Gobi 65,130,starters
+8/14/2021,Guwahati,b547,Buddha Veg bowl,280,international
+8/14/2021,Guwahati,c848,chilli parotta,110,bread
+8/14/2021,Guwahati,ca45,Veg wrap,140,wraps and salads
+8/14/2021,Guwahati,d84d,Chicken Fried rice,350,rice and noodles
+8/14/2021,Guwahati,d84d,Buddha Veg bowl,280,international
+8/14/2021,Guwahati,d84d,chilli parotta,110,bread
+8/14/2021,Guwahati,e44b,fish fried rice,280,rice and noodles
+8/14/2021,Guwahati,f348,Chicken Fried rice,350,rice and noodles
+8/14/2021,Delhi,4c47,Chicken Fried rice,350,rice and noodles
+8/14/2021,Delhi,3846,Gobi 65,130,starters
+8/14/2021,Hyderabad,1c4e,Bolognese pasta,270,international
+8/14/2021,Hyderabad,1.00E+46,Vegetarian noodles,200,rice and noodles
+8/14/2021,Hyderabad,3b41,Gobi 65,130,starters
+8/14/2021,Hyderabad,5c4c,chilli parotta,110,bread
+8/14/2021,Hyderabad,6b41,Gobi 65,130,starters
+8/14/2021,Hyderabad,2649,chilli parotta,110,bread
+8/14/2021,Hyderabad,914f,Gobi 65,130,starters
+8/14/2021,Hyderabad,7941,chilli parotta,110,bread
+8/14/2021,Hyderabad,954f,Vegetable salad,170,wraps and salads
+8/14/2021,Hyderabad,404a,Bolognese pasta,270,international
+8/14/2021,Hyderabad,6145,Chicken Fried rice,350,rice and noodles
+8/14/2021,Hyderabad,1342,Bolognese pasta,270,international
+8/14/2021,Hyderabad,714e,Chicken Fried rice,350,rice and noodles
+8/14/2021,Hyderabad,a548,Bolognese pasta,270,international
+8/14/2021,Hyderabad,ab48,Bolognese pasta,270,international
+8/14/2021,Hyderabad,bb45,Bolognese pasta,270,international
+8/14/2021,Hyderabad,ca49,Vegetable salad,170,wraps and salads
+8/14/2021,Hyderabad,d442,Gobi 65,130,starters
+8/14/2021,Hyderabad,da44,chilli parotta,110,bread
+8/14/2021,Hyderabad,dc48,Chicken Fried rice,350,rice and noodles
+8/14/2021,Hyderabad,e649,Gobi 65,130,starters
+8/14/2021,Hyderabad,f148,fish fried rice,280,rice and noodles
+8/14/2021,Gurgaon,f34f,Chicken Fried rice,350,rice and noodles
+8/14/2021,Gurgaon,f34f,Buddha Veg bowl,280,international
+8/14/2021,Gurgaon,f34f,Veg wrap,140,wraps and salads
+8/14/2021,Gurgaon,f34f,chilli parotta,110,bread
+8/14/2021,Gurgaon,f34f,Bolognese pasta,270,international
+8/14/2021,Gurgaon,f34f,fish fried rice,280,rice and noodles
+8/14/2021,Kolkata,5043,Chicken Fried rice,350,rice and noodles
+8/14/2021,Kolkata,5043,Vegetable salad,170,wraps and salads
+8/14/2021,Kolkata,5043,Veg wrap,140,wraps and salads
+8/14/2021,Kolkata,5043,Vegetarian noodles,200,rice and noodles
+8/14/2021,Kolkata,5043,fish fried rice,280,rice and noodles
+8/14/2021,Jaipur,540,Gobi 65,130,starters
+8/14/2021,Jaipur,6249,Gobi 65,130,starters
+8/14/2021,Pune,f545,Bolognese pasta,270,international
+8/14/2021,Chandigarh,5d41,Gobi 65,130,starters
+8/14/2021,Chandigarh,9645,vegetable sandwich,130,bread
+8/14/2021,Chandigarh,954d,Chicken Fried rice,350,rice and noodles
+8/14/2021,Chandigarh,234e,Chicken Fried rice,350,rice and noodles
+8/14/2021,Chandigarh,214a,vegetable sandwich,130,bread
+8/14/2021,Chandigarh,a243,Gobi 65,130,starters
+8/14/2021,Chandigarh,e44c,Veg wrap,140,wraps and salads
+8/14/2021,Chandigarh,e44b,Chicken Fried rice,350,rice and noodles
+8/14/2021,Bangalore,2d43,Gobi 65,130,starters
+8/14/2021,Bangalore,5f4e,Chicken Fried rice,350,rice and noodles
+8/14/2021,Bangalore,6f46,Chicken Fried rice,350,rice and noodles
+8/14/2021,Bangalore,104d,Veg wrap,140,wraps and salads
+8/14/2021,Bangalore,844a,Buddha Veg bowl,280,international
+8/14/2021,Bangalore,784b,fish fried rice,280,rice and noodles
+8/14/2021,Bangalore,a34b,Vegetable salad,170,wraps and salads
+8/14/2021,Bangalore,c544,Gobi 65,130,starters
+8/14/2021,Bangalore,f24a,vegetable sandwich,130,bread
+8/14/2021,Mysore,3.00E+45,Gobi 65,130,starters
+8/14/2021,Mysore,4b40,butter naan,60,bread
+8/14/2021,Mysore,5.00E+49,Gobi 65,130,starters
+8/14/2021,Mysore,6c41,Chicken Fried rice,350,rice and noodles
+8/14/2021,Mysore,6c41,Gobi 65,130,starters
+8/14/2021,Mysore,6f45,Chicken Fried rice,350,rice and noodles
+8/14/2021,Mysore,7d40,Buddha Veg bowl,280,international
+8/14/2021,Mysore,8e4f,butter naan,60,bread
+8/14/2021,Mysore,064a,Chicken Fried rice,350,rice and noodles
+8/14/2021,Mysore,4645,Gobi 65,130,starters
+8/14/2021,Mysore,4645,Bolognese pasta,270,international
+8/14/2021,Mysore,884c,Gobi 65,130,starters
+8/14/2021,Mysore,9841,Bolognese pasta,270,international
+8/14/2021,Mysore,6348,vegetable sandwich,130,bread
+8/14/2021,Mysore,924d,Vegetable salad,170,wraps and salads
+8/14/2021,Mysore,b049,Vegetable salad,170,wraps and salads
+8/14/2021,Mysore,cb4f,Bolognese pasta,270,international
+8/14/2021,Mysore,cf43,Gobi 65,130,starters
+8/14/2021,Mysore,e44e,Gobi 65,130,starters
+8/14/2021,Mysore,fc4e,Gobi 65,130,starters
+8/14/2021,Coimbatore,3b49,Gobi 65,130,starters
+8/14/2021,Coimbatore,5.00E+48,Buddha Veg bowl,280,international
+8/14/2021,Coimbatore,9d4e,Gobi 65,130,starters
+8/14/2021,Coimbatore,4643,chilli parotta,110,bread
+8/14/2021,Coimbatore,614b,Gobi 65,130,starters
+8/14/2021,Coimbatore,4340,Buddha Veg bowl,280,international
+8/14/2021,Coimbatore,6447,Buddha Veg bowl,280,international
+8/14/2021,Coimbatore,c34f,Buddha Veg bowl,280,international
+8/14/2021,Coimbatore,cc4e,Buddha Veg bowl,280,international
+8/14/2021,Coimbatore,d74e,Buddha Veg bowl,280,international
+8/14/2021,Coimbatore,e74e,chilli parotta,110,bread
+8/14/2021,Vizag,0f43,Veg wrap,140,wraps and salads
+8/14/2021,Vizag,8d44,Vegetable salad,170,wraps and salads
+8/14/2021,Vizag,224e,Chicken Fried rice,350,rice and noodles
+8/14/2021,Vizag,374e,Buddha Veg bowl,280,international
+8/14/2021,Vizag,6246,Buddha Veg bowl,280,international
+8/14/2021,Vizag,a840,apple milkshake,190,juices
+8/14/2021,Vizag,b14a,Vegetable salad,170,wraps and salads
+8/14/2021,Vizag,c342,fish fried rice,280,rice and noodles
+8/14/2021,Vizag,e346,fish fried rice,280,rice and noodles
+8/14/2021,Indore,1a4d,Buddha Veg bowl,280,international
+8/14/2021,Indore,5c4e,Vegetable salad,170,wraps and salads
+8/14/2021,Indore,6b42,butter naan,60,bread
+8/14/2021,Indore,8a47,vegetable sandwich,130,bread
+8/14/2021,Indore,1247,Chicken Fried rice,350,rice and noodles
+8/14/2021,Indore,2340,Chicken Fried rice,350,rice and noodles
+8/14/2021,Indore,7447,Gobi 65,130,starters
+8/14/2021,Indore,5649,fish fried rice,280,rice and noodles
+8/14/2021,Indore,734f,apple milkshake,190,juices
+8/14/2021,Indore,9045,Gobi 65,130,starters
+8/14/2021,Indore,5747,Buddha Veg bowl,280,international
+8/14/2021,Indore,354d,Chicken Fried rice,350,rice and noodles
+8/14/2021,Indore,624d,Vegetarian noodles,200,rice and noodles
+8/14/2021,Indore,774f,Vegetarian noodles,200,rice and noodles
+8/14/2021,Indore,ac43,Chicken Fried rice,350,rice and noodles
+8/14/2021,Indore,b54c,Chicken Fried rice,350,rice and noodles
+8/14/2021,Indore,ba49,vegetable sandwich,130,bread
+8/14/2021,Indore,ba41,Buddha Veg bowl,280,international
+8/14/2021,Indore,bc46,Buddha Veg bowl,280,international
+8/14/2021,Indore,c940,fish fried rice,280,rice and noodles
+8/14/2021,Indore,ca4c,Veg wrap,140,wraps and salads
+8/14/2021,Indore,e941,Gobi 65,130,starters
+8/14/2021,Indore,ea47,Bolognese pasta,270,international
+8/14/2021,Indore,f546,Vegetable salad,170,wraps and salads
+8/14/2021,Indore,fe48,Veg wrap,140,wraps and salads
+8/15/2021,Chennai,1942,Chicken Fried rice,350,rice and noodles
+8/15/2021,Chennai,824e,Buddha Veg bowl,280,international
+8/15/2021,Chennai,b94d,Bolognese pasta,270,international
+8/15/2021,Chennai,de41,chilli parotta,110,bread
+8/15/2021,Chennai,e846,Vegetable salad,170,wraps and salads
+8/15/2021,Chennai,e846,Buddha Veg bowl,280,international
+8/15/2021,Chennai,e846,Gobi 65,130,starters
+8/15/2021,Chennai,e846,Gobi 65,130,starters
+8/15/2021,Chennai,e846,Vegetarian noodles,200,rice and noodles
+8/15/2021,Chennai,ec4d,Chicken Fried rice,350,rice and noodles
+8/15/2021,Mumbai,3f45,Buddha Veg bowl,280,international
+8/15/2021,Mumbai,5e4e,Chicken Fried rice,350,rice and noodles
+8/15/2021,Mumbai,7d4f,Gobi 65,130,starters
+8/15/2021,Mumbai,7d4f,Bolognese pasta,270,international
+8/15/2021,Mumbai,7.00E+45,chilli parotta,110,bread
+8/15/2021,Mumbai,2542,vegetable sandwich,130,bread
+8/15/2021,Mumbai,264a,Bolognese pasta,270,international
+8/15/2021,Mumbai,8240,fish fried rice,280,rice and noodles
+8/15/2021,Mumbai,748,Gobi 65,130,starters
+8/15/2021,Mumbai,1041,vegetable sandwich,130,bread
+8/15/2021,Mumbai,2348,Vegetable salad,170,wraps and salads
+8/15/2021,Mumbai,2841,chilli parotta,110,bread
+8/15/2021,Mumbai,6245,Gobi 65,130,starters
+8/15/2021,Mumbai,7449,Veg wrap,140,wraps and salads
+8/15/2021,Mumbai,c446,Vegetarian noodles,200,rice and noodles
+8/15/2021,Mumbai,c446,vegetable sandwich,130,bread
+8/15/2021,Mumbai,d242,Gobi 65,130,starters
+8/15/2021,Mumbai,da40,Veg wrap,140,wraps and salads
+8/15/2021,Mumbai,df4b,Buddha Veg bowl,280,international
+8/15/2021,Guwahati,0.00E+00,Gobi 65,130,starters
+8/15/2021,Guwahati,2a43,Veg wrap,140,wraps and salads
+8/15/2021,Guwahati,6e4d,Buddha Veg bowl,280,international
+8/15/2021,Guwahati,8b4f,chilli parotta,110,bread
+8/15/2021,Guwahati,294d,fish fried rice,280,rice and noodles
+8/15/2021,Guwahati,4746,vegetable sandwich,130,bread
+8/15/2021,Guwahati,5446,Bolognese pasta,270,international
+8/15/2021,Guwahati,6740,Vegetable salad,170,wraps and salads
+8/15/2021,Guwahati,8249,Vegetable salad,170,wraps and salads
+8/15/2021,Guwahati,514d,fish fried rice,280,rice and noodles
+8/15/2021,Guwahati,5548,chilli parotta,110,bread
+8/15/2021,Guwahati,904c,Chicken Fried rice,350,rice and noodles
+8/15/2021,Guwahati,434e,apple milkshake,190,juices
+8/15/2021,Guwahati,764d,fish fried rice,280,rice and noodles
+8/15/2021,Guwahati,4245,Veg wrap,140,wraps and salads
+8/15/2021,Guwahati,c242,Vegetarian noodles,200,rice and noodles
+8/15/2021,Guwahati,ca44,Chicken Fried rice,350,rice and noodles
+8/15/2021,Guwahati,ca45,Chicken Fried rice,350,rice and noodles
+8/15/2021,Guwahati,d248,Vegetarian noodles,200,rice and noodles
+8/15/2021,Guwahati,e44b,Buddha Veg bowl,280,international
+8/15/2021,Guwahati,e34e,Veg wrap,140,wraps and salads
+8/15/2021,Delhi,3846,Gobi 65,130,starters
+8/15/2021,Delhi,4640,Bolognese pasta,270,international
+8/15/2021,Delhi,914e,chilli parotta,110,bread
+8/15/2021,Hyderabad,1.00E+46,Gobi 65,130,starters
+8/15/2021,Hyderabad,3b41,Veg wrap,140,wraps and salads
+8/15/2021,Hyderabad,5c4c,Gobi 65,130,starters
+8/15/2021,Hyderabad,6b41,chilli parotta,110,bread
+8/15/2021,Hyderabad,9.00E+45,Vegetarian noodles,200,rice and noodles
+8/15/2021,Hyderabad,004e,Chicken Fried rice,350,rice and noodles
+8/15/2021,Hyderabad,2649,Chicken Fried rice,350,rice and noodles
+8/15/2021,Hyderabad,8041,Gobi 65,130,starters
+8/15/2021,Hyderabad,914f,Bolognese pasta,270,international
+8/15/2021,Hyderabad,144f,Bolognese pasta,270,international
+8/15/2021,Hyderabad,7941,Gobi 65,130,starters
+8/15/2021,Hyderabad,374e,Chicken Fried rice,350,rice and noodles
+8/15/2021,Hyderabad,6145,Vegetarian noodles,200,rice and noodles
+8/15/2021,Hyderabad,ab44,apple milkshake,190,juices
+8/15/2021,Hyderabad,d249,Chicken Fried rice,350,rice and noodles
+8/15/2021,Hyderabad,dc48,Bolognese pasta,270,international
+8/15/2021,Hyderabad,ee4d,Bolognese pasta,270,international
+8/15/2021,Kolkata,5043,Vegetable salad,170,wraps and salads
+8/15/2021,Kolkata,5043,Buddha Veg bowl,280,international
+8/15/2021,Pune,fe4d,Gobi 65,130,starters
+8/15/2021,Chandigarh,9645,Chicken Fried rice,350,rice and noodles
+8/15/2021,Chandigarh,954d,Veg wrap,140,wraps and salads
+8/15/2021,Chandigarh,214a,Vegetable salad,170,wraps and salads
+8/15/2021,Chandigarh,214a,Veg wrap,140,wraps and salads
+8/15/2021,Chandigarh,a243,Vegetable salad,170,wraps and salads
+8/15/2021,Chandigarh,d449,chilli parotta,110,bread
+8/15/2021,Chandigarh,e44c,Vegetable salad,170,wraps and salads
+8/15/2021,Bangalore,5c48,Chicken Fried rice,350,rice and noodles
+8/15/2021,Bangalore,5f4e,Gobi 65,130,starters
+8/15/2021,Bangalore,6a46,Gobi 65,130,starters
+8/15/2021,Bangalore,104d,Gobi 65,130,starters
+8/15/2021,Bangalore,784b,fish fried rice,280,rice and noodles
+8/15/2021,Bangalore,a34b,Bolognese pasta,270,international
+8/15/2021,Bangalore,dd4e,Vegetable salad,170,wraps and salads
+8/15/2021,Bangalore,e947,fish fried rice,280,rice and noodles
+8/15/2021,Mysore,0f4a,Chicken Fried rice,350,rice and noodles
+8/15/2021,Mysore,0f4a,Vegetarian noodles,200,rice and noodles
+8/15/2021,Mysore,4a42,Vegetable salad,170,wraps and salads
+8/15/2021,Mysore,4b40,Gobi 65,130,starters
+8/15/2021,Mysore,5.00E+49,Bolognese pasta,270,international
+8/15/2021,Mysore,7d40,butter naan,60,bread
+8/15/2021,Mysore,8e4f,chilli parotta,110,bread
+8/15/2021,Mysore,064a,Vegetable salad,170,wraps and salads
+8/15/2021,Mysore,1344,Buddha Veg bowl,280,international
+8/15/2021,Mysore,884c,fish fried rice,280,rice and noodles
+8/15/2021,Mysore,9841,Chicken Fried rice,350,rice and noodles
+8/15/2021,Mysore,094f,fish fried rice,280,rice and noodles
+8/15/2021,Mysore,924d,Buddha Veg bowl,280,international
+8/15/2021,Mysore,474f,Bolognese pasta,270,international
+8/15/2021,Mysore,b049,fish fried rice,280,rice and noodles
+8/15/2021,Mysore,c845,Bolognese pasta,270,international
+8/15/2021,Mysore,cf43,chilli parotta,110,bread
+8/15/2021,Mysore,e34f,Bolognese pasta,270,international
+8/15/2021,Mysore,e44e,Buddha Veg bowl,280,international
+8/15/2021,Coimbatore,3b49,Buddha Veg bowl,280,international
+8/15/2021,Coimbatore,6a48,Buddha Veg bowl,280,international
+8/15/2021,Coimbatore,844f,Gobi 65,130,starters
+8/15/2021,Coimbatore,414c,Buddha Veg bowl,280,international
+8/15/2021,Coimbatore,574d,Gobi 65,130,starters
+8/15/2021,Coimbatore,4340,chilli parotta,110,bread
+8/15/2021,Coimbatore,b641,Gobi 65,130,starters
+8/15/2021,Coimbatore,cc4e,Gobi 65,130,starters
+8/15/2021,Indore,1a4d,vegetable sandwich,130,bread
+8/15/2021,Indore,2b43,chilli parotta,110,bread
+8/15/2021,Indore,2b43,Bolognese pasta,270,international
+8/15/2021,Indore,5c4e,Bolognese pasta,270,international
+8/15/2021,Indore,6b42,Veg wrap,140,wraps and salads
+8/15/2021,Indore,8a47,Bolognese pasta,270,international
+8/15/2021,Indore,1247,Bolognese pasta,270,international
+8/15/2021,Indore,2340,Veg wrap,140,wraps and salads
+8/15/2021,Indore,7447,Chicken Fried rice,350,rice and noodles
+8/15/2021,Indore,5649,Gobi 65,130,starters
+8/15/2021,Indore,9045,Gobi 65,130,starters
+8/15/2021,Indore,844a,Buddha Veg bowl,280,international
+8/15/2021,Indore,843,Bolognese pasta,270,international
+8/15/2021,Indore,5747,fish fried rice,280,rice and noodles
+8/15/2021,Indore,354d,vegetable sandwich,130,bread
+8/15/2021,Indore,624d,fish fried rice,280,rice and noodles
+8/15/2021,Indore,774f,Chicken Fried rice,350,rice and noodles
+8/15/2021,Indore,ac43,Gobi 65,130,starters
+8/15/2021,Indore,af47,Buddha Veg bowl,280,international
+8/15/2021,Indore,b54c,vegetable sandwich,130,bread
+8/15/2021,Indore,ba49,Vegetable salad,170,wraps and salads
+8/15/2021,Indore,ba41,fish fried rice,280,rice and noodles
+8/15/2021,Indore,bb4e,butter naan,60,bread
+8/15/2021,Indore,bc46,Gobi 65,130,starters
+8/15/2021,Indore,c940,apple milkshake,190,juices
+8/15/2021,Indore,ca4c,fish fried rice,280,rice and noodles
+8/15/2021,Indore,d64b,Bolognese pasta,270,international
+8/15/2021,Indore,e941,vegetable sandwich,130,bread
+8/15/2021,Indore,ea47,chilli parotta,110,bread
+8/15/2021,Indore,f546,Veg wrap,140,wraps and salads
+8/15/2021,Indore,fe48,Gobi 65,130,starters
+8/16/2021,Chennai,5.00E+42,Chicken Fried rice,350,rice and noodles
+8/16/2021,Chennai,5.00E+42,Gobi 65,130,starters
+8/16/2021,Chennai,2247,fish fried rice,280,rice and noodles
+8/16/2021,Chennai,c04f,Bolognese pasta,270,international
+8/16/2021,Chennai,ec4d,Gobi 65,130,starters
+8/16/2021,Chennai,ff4b,chilli parotta,110,bread
+8/16/2021,Mumbai,1b45,Bolognese pasta,270,international
+8/16/2021,Mumbai,4c4f,Chicken Fried rice,350,rice and noodles
+8/16/2021,Mumbai,7.00E+45,Chicken Fried rice,350,rice and noodles
+8/16/2021,Mumbai,224d,Veg wrap,140,wraps and salads
+8/16/2021,Mumbai,244f,fish fried rice,280,rice and noodles
+8/16/2021,Mumbai,1041,Gobi 65,130,starters
+8/16/2021,Mumbai,2440,Chicken Fried rice,350,rice and noodles
+8/16/2021,Mumbai,ac4a,Bolognese pasta,270,international
+8/16/2021,Mumbai,c446,chilli parotta,110,bread
+8/16/2021,Mumbai,da40,Buddha Veg bowl,280,international
+8/16/2021,Mumbai,ff47,Bolognese pasta,270,international
+8/16/2021,Guwahati,3b49,fish fried rice,280,rice and noodles
+8/16/2021,Guwahati,6141,vegetable sandwich,130,bread
+8/16/2021,Guwahati,d640,Bolognese pasta,270,international
+8/16/2021,Guwahati,d640,Vegetarian noodles,200,rice and noodles
+8/16/2021,Guwahati,f140,Buddha Veg bowl,280,international
+8/16/2021,Hyderabad,1.00E+46,apple milkshake,190,juices
+8/16/2021,Hyderabad,3b41,Gobi 65,130,starters
+8/16/2021,Hyderabad,4.00E+47,apple milkshake,190,juices
+8/16/2021,Hyderabad,6b41,Chicken Fried rice,350,rice and noodles
+8/16/2021,Hyderabad,9.00E+45,Gobi 65,130,starters
+8/16/2021,Hyderabad,004e,vegetable sandwich,130,bread
+8/16/2021,Hyderabad,8041,Buddha Veg bowl,280,international
+8/16/2021,Hyderabad,914f,vegetable sandwich,130,bread
+8/16/2021,Hyderabad,1641,chilli parotta,110,bread
+8/16/2021,Hyderabad,714e,Gobi 65,130,starters
+8/16/2021,Hyderabad,714e,Bolognese pasta,270,international
+8/16/2021,Hyderabad,8247,chilli parotta,110,bread
+8/16/2021,Hyderabad,ab44,Buddha Veg bowl,280,international
+8/16/2021,Hyderabad,ad4c,Bolognese pasta,270,international
+8/16/2021,Hyderabad,c24e,fish fried rice,280,rice and noodles
+8/16/2021,Hyderabad,d442,Gobi 65,130,starters
+8/16/2021,Hyderabad,dc48,Vegetarian noodles,200,rice and noodles
+8/16/2021,Hyderabad,ee4d,vegetable sandwich,130,bread
+8/16/2021,Hyderabad,f84d,Bolognese pasta,270,international
+8/16/2021,Kolkata,5043,Chicken Fried rice,350,rice and noodles
+8/16/2021,Kolkata,5043,Vegetable salad,170,wraps and salads
+8/16/2021,Kolkata,5043,chilli parotta,110,bread
+8/16/2021,Chandigarh,9b49,vegetable sandwich,130,bread
+8/16/2021,Chandigarh,9645,Gobi 65,130,starters
+8/16/2021,Chandigarh,234e,Gobi 65,130,starters
+8/16/2021,Chandigarh,a243,Veg wrap,140,wraps and salads
+8/16/2021,Bangalore,5c4d,Bolognese pasta,270,international
+8/16/2021,Bangalore,5f4e,Vegetable salad,170,wraps and salads
+8/16/2021,Bangalore,6a46,Veg wrap,140,wraps and salads
+8/16/2021,Bangalore,9.00E+49,Gobi 65,130,starters
+8/16/2021,Bangalore,104d,Gobi 65,130,starters
+8/16/2021,Bangalore,784b,fish fried rice,280,rice and noodles
+8/16/2021,Mysore,0f4a,Vegetable salad,170,wraps and salads
+8/16/2021,Mysore,0f4a,Bolognese pasta,270,international
+8/16/2021,Mysore,4b40,butter naan,60,bread
+8/16/2021,Mysore,5.00E+49,chilli parotta,110,bread
+8/16/2021,Mysore,5.00E+49,fish fried rice,280,rice and noodles
+8/16/2021,Mysore,7d40,fish fried rice,280,rice and noodles
+8/16/2021,Mysore,8e4f,Gobi 65,130,starters
+8/16/2021,Mysore,4645,Vegetarian noodles,200,rice and noodles
+8/16/2021,Mysore,884c,Chicken Fried rice,350,rice and noodles
+8/16/2021,Mysore,b049,Veg wrap,140,wraps and salads
+8/16/2021,Mysore,c84a,Gobi 65,130,starters
+8/16/2021,Mysore,c84a,Veg wrap,140,wraps and salads
+8/16/2021,Coimbatore,3.00E+45,Buddha Veg bowl,280,international
+8/16/2021,Coimbatore,3.00E+45,Gobi 65,130,starters
+8/16/2021,Coimbatore,064e,Buddha Veg bowl,280,international
+8/16/2021,Coimbatore,6447,chilli parotta,110,bread
+8/16/2021,Coimbatore,cc4e,Buddha Veg bowl,280,international
+8/16/2021,Coimbatore,e244,Gobi 65,130,starters
+8/16/2021,Indore,1a4d,Veg wrap,140,wraps and salads
+8/16/2021,Indore,2b43,fish fried rice,280,rice and noodles
+8/16/2021,Indore,5c4e,Gobi 65,130,starters
+8/16/2021,Indore,6b42,vegetable sandwich,130,bread
+8/16/2021,Indore,2340,Bolognese pasta,270,international
+8/16/2021,Indore,7447,fish fried rice,280,rice and noodles
+8/16/2021,Indore,5649,Gobi 65,130,starters
+8/16/2021,Indore,5649,Bolognese pasta,270,international
+8/16/2021,Indore,734f,Vegetable salad,170,wraps and salads
+8/16/2021,Indore,9045,Gobi 65,130,starters
+8/16/2021,Indore,844a,Gobi 65,130,starters
+8/16/2021,Indore,354d,Buddha Veg bowl,280,international
+8/16/2021,Indore,ac43,Chicken Fried rice,350,rice and noodles
+8/16/2021,Indore,af47,Gobi 65,130,starters
+8/16/2021,Indore,b54c,Chicken Fried rice,350,rice and noodles
+8/16/2021,Indore,b946,Buddha Veg bowl,280,international
+8/16/2021,Indore,ba49,vegetable sandwich,130,bread
+8/16/2021,Indore,ba41,Chicken Fried rice,350,rice and noodles
+8/16/2021,Indore,bb4e,fish fried rice,280,rice and noodles
+8/16/2021,Indore,bc46,Vegetarian noodles,200,rice and noodles
+8/16/2021,Indore,c940,Veg wrap,140,wraps and salads
+8/16/2021,Indore,ca4c,Veg wrap,140,wraps and salads
+8/16/2021,Indore,e941,Gobi 65,130,starters
+8/16/2021,Indore,e542,Bolognese pasta,270,international
+8/16/2021,Indore,ea47,Gobi 65,130,starters
+8/16/2021,Indore,fe48,Veg wrap,140,wraps and salads
+8/19/2021,Mumbai,224d,green peas masala,260,sidedish
+8/19/2021,Mumbai,c446,dal tadka,250,sidedish
+8/19/2021,Mumbai,df4b,lasagne,300,international
+8/19/2021,Guwahati,364c,chicken noodles,330,rice and noodles
+8/19/2021,Hyderabad,1.00E+46,lasagne,300,international
+8/19/2021,Hyderabad,d842,cheese quesadilla,190,international
+8/19/2021,Hyderabad,e44d,cheese naan,80,bread
+8/19/2021,Chandigarh,fb4e,green peas masala,260,sidedish
+8/19/2021,Nagpur,3b40,banana smoothie,150,juices
+8/19/2021,Nagpur,7a44,vietnamese fried rice,270,rice and noodles
+8/19/2021,Nagpur,7d43,vietnamese fried rice,270,rice and noodles
+8/19/2021,Nagpur,6147,cheese quesadilla,190,international
+8/19/2021,Nagpur,6742,cheese quesadilla,190,international
+8/19/2021,Nagpur,734e,chicken noodles,330,rice and noodles
+8/19/2021,Nagpur,8048,cheese quesadilla,190,international
+8/19/2021,Nagpur,de47,chicken noodles,330,rice and noodles
+8/19/2021,Nagpur,e546,lasagne,300,international
+8/19/2021,Bangalore,6a46,roasted veggies,180,starters
+8/19/2021,Mysore,4a42,dal tadka,250,sidedish
+8/19/2021,Mysore,4b40,cheese quesadilla,190,international
+8/19/2021,Mysore,5.00E+49,lasagne,300,international
+8/19/2021,Mysore,5.00E+49,cheese naan,80,bread
+8/19/2021,Mysore,7d40,cheese quesadilla,190,international
+8/19/2021,Mysore,8e4f,chicken noodles,330,rice and noodles
+8/19/2021,Mysore,4645,vietnamese fried rice,270,rice and noodles
+8/19/2021,Mysore,884c,cheese quesadilla,190,international
+8/19/2021,Mysore,924d,chicken noodles,330,rice and noodles
+8/19/2021,Mysore,3446,roasted veggies,180,starters
+8/19/2021,Mysore,b049,cheese quesadilla,190,international
+8/19/2021,Mysore,c84a,chicken noodles,330,rice and noodles
+8/19/2021,Mysore,c84a,dal tadka,250,sidedish
+8/19/2021,Vizag,4b4e,chicken noodles,330,rice and noodles
+8/19/2021,Vizag,5c4f,lasagne,300,international
+8/19/2021,Vizag,224e,cheese quesadilla,190,international
+8/19/2021,Vizag,2944,cheese quesadilla,190,international
+8/19/2021,Vizag,374e,cheese quesadilla,190,international
+8/19/2021,Vizag,6246,vietnamese fried rice,270,rice and noodles
+8/19/2021,Vizag,b14a,water melon juice,100,juices
+8/19/2021,Vizag,e346,cheese quesadilla,190,international
+8/19/2021,Indore,1a4d,lasagne,300,international
+8/19/2021,Indore,2b43,vietnamese fried rice,270,rice and noodles
+8/19/2021,Indore,6b42,cheese naan,80,bread
+8/19/2021,Indore,8a47,vietnamese fried rice,270,rice and noodles
+8/19/2021,Indore,7447,cheese quesadilla,190,international
+8/19/2021,Indore,1649,cheese quesadilla,190,international
+8/19/2021,Indore,5649,cheese quesadilla,190,international
+8/19/2021,Indore,9045,cheese quesadilla,190,international
+8/19/2021,Indore,844a,banana smoothie,150,juices
+8/19/2021,Indore,5747,lasagne,300,international
+8/19/2021,Indore,b54c,chicken noodles,330,rice and noodles
+8/19/2021,Indore,b946,vietnamese fried rice,270,rice and noodles
+8/19/2021,Indore,ba41,lasagne,300,international
+8/19/2021,Indore,bb4e,cheese quesadilla,190,international
+8/19/2021,Indore,bc46,cheese naan,80,bread
+8/19/2021,Indore,e941,chicken noodles,330,rice and noodles
+8/19/2021,Indore,ea47,cheese quesadilla,190,international
+8/20/2021,Guwahati,364c,green peas masala,260,sidedish
+8/20/2021,Guwahati,b140,chicken noodles,330,rice and noodles
+8/20/2021,Hyderabad,1.00E+46,banana smoothie,150,juices
+8/20/2021,Hyderabad,d842,vietnamese fried rice,270,rice and noodles
+8/20/2021,Pune,4b45,chicken noodles,330,rice and noodles
+8/20/2021,Nagpur,7a44,water melon juice,100,juices
+8/20/2021,Nagpur,7d43,cheese quesadilla,190,international
+8/20/2021,Nagpur,6742,roasted veggies,180,starters
+8/20/2021,Nagpur,e546,roasted veggies,180,starters
+8/20/2021,Mysore,2a4d,lasagne,300,international
+8/20/2021,Mysore,4b40,lasagne,300,international
+8/20/2021,Mysore,5.00E+49,chicken noodles,330,rice and noodles
+8/20/2021,Mysore,5.00E+49,cheese quesadilla,190,international
+8/20/2021,Mysore,7d40,chicken noodles,330,rice and noodles
+8/20/2021,Mysore,8e4f,cheese quesadilla,190,international
+8/20/2021,Mysore,4645,dal tadka,250,sidedish
+8/20/2021,Mysore,884c,vietnamese fried rice,270,rice and noodles
+8/20/2021,Mysore,094f,green peas masala,260,sidedish
+8/20/2021,Mysore,3446,lasagne,300,international
+8/20/2021,Mysore,b049,green peas masala,260,sidedish
+8/20/2021,Mysore,e44e,chicken noodles,330,rice and noodles
+8/20/2021,Indore,1a4d,cheese quesadilla,190,international
+8/20/2021,Indore,2b43,banana smoothie,150,juices
+8/20/2021,Indore,6b42,dal tadka,250,sidedish
+8/20/2021,Indore,8a47,banana smoothie,150,juices
+8/20/2021,Indore,7447,lasagne,300,international
+8/20/2021,Indore,5649,lasagne,300,international
+8/20/2021,Indore,9045,green peas masala,260,sidedish
+8/20/2021,Indore,844a,dal tadka,250,sidedish
+8/20/2021,Indore,5747,dal tadka,250,sidedish
+8/20/2021,Indore,b54c,cheese naan,80,bread
+8/20/2021,Indore,ba41,chicken noodles,330,rice and noodles
+8/20/2021,Indore,bb4e,cheese naan,80,bread
+8/20/2021,Indore,bc46,cheese quesadilla,190,international
+8/20/2021,Indore,e941,vietnamese fried rice,270,rice and noodles
+8/21/2021,Mumbai,df4b,cheese naan,80,bread
+8/21/2021,Guwahati,5f45,vietnamese fried rice,270,rice and noodles
+8/21/2021,Guwahati,4746,cheese quesadilla,190,international
+8/21/2021,Hyderabad,1.00E+46,cheese quesadilla,190,international
+8/21/2021,Nagpur,7d43,cheese naan,80,bread
+8/21/2021,Nagpur,6742,green peas masala,260,sidedish
+8/21/2021,Mysore,2a4d,cheese quesadilla,190,international
+8/21/2021,Mysore,4a42,cheese quesadilla,190,international
+8/21/2021,Mysore,4b40,lasagne,300,international
+8/21/2021,Mysore,5.00E+49,dal tadka,250,sidedish
+8/21/2021,Mysore,5.00E+49,cheese naan,80,bread
+8/21/2021,Mysore,7d40,cheese naan,80,bread
+8/21/2021,Mysore,8e4f,lasagne,300,international
+8/21/2021,Mysore,4645,vietnamese fried rice,270,rice and noodles
+8/21/2021,Mysore,884c,roasted veggies,180,starters
+8/21/2021,Mysore,924d,cheese quesadilla,190,international
+8/21/2021,Mysore,3446,banana smoothie,150,juices
+8/21/2021,Mysore,b049,dal tadka,250,sidedish
+8/21/2021,Mysore,e44e,green peas masala,260,sidedish
+8/21/2021,Mysore,e44e,cheese naan,80,bread
+8/21/2021,Vizag,4b4e,cheese quesadilla,190,international
+8/21/2021,Vizag,e346,lasagne,300,international
+8/21/2021,Indore,1a4d,cheese naan,80,bread
+8/21/2021,Indore,2b43,cheese quesadilla,190,international
+8/21/2021,Indore,6b42,cheese quesadilla,190,international
+8/21/2021,Indore,8a47,cheese quesadilla,190,international
+8/21/2021,Indore,7447,vietnamese fried rice,270,rice and noodles
+8/21/2021,Indore,5649,vietnamese fried rice,270,rice and noodles
+8/21/2021,Indore,9045,roasted veggies,180,starters
+8/21/2021,Indore,844a,cheese naan,80,bread
+8/21/2021,Indore,843,banana smoothie,150,juices
+8/21/2021,Indore,5747,cheese quesadilla,190,international
+8/21/2021,Indore,b54c,cheese quesadilla,190,international
+8/21/2021,Indore,ba41,cheese quesadilla,190,international
+8/21/2021,Indore,bb4e,green peas masala,260,sidedish
+8/21/2021,Indore,bc46,lasagne,300,international
+8/22/2021,Guwahati,5f45,roasted veggies,180,starters
+8/22/2021,Hyderabad,1.00E+46,water melon juice,100,juices
+8/22/2021,Hyderabad,4340,cheese quesadilla,190,international
+8/22/2021,Hyderabad,374e,chicken noodles,330,rice and noodles
+8/22/2021,Pune,4b45,vietnamese fried rice,270,rice and noodles
+8/22/2021,Nagpur,7a44,chicken noodles,330,rice and noodles
+8/22/2021,Nagpur,7d43,lasagne,300,international
+8/22/2021,Nagpur,8741,chicken noodles,330,rice and noodles
+8/22/2021,Nagpur,e546,cheese naan,80,bread
+8/22/2021,Mysore,4a42,cheese naan,80,bread
+8/22/2021,Mysore,4b40,cheese quesadilla,190,international
+8/22/2021,Mysore,5.00E+49,cheese quesadilla,190,international
+8/22/2021,Mysore,5.00E+49,lasagne,300,international
+8/22/2021,Mysore,7d40,dal tadka,250,sidedish
+8/22/2021,Mysore,8e4f,lasagne,300,international
+8/22/2021,Mysore,4645,roasted veggies,180,starters
+8/22/2021,Mysore,884c,banana smoothie,150,juices
+8/22/2021,Mysore,094f,chicken noodles,330,rice and noodles
+8/22/2021,Mysore,924d,roasted veggies,180,starters
+8/22/2021,Mysore,b049,banana smoothie,150,juices
+8/22/2021,Mysore,e44e,chicken noodles,330,rice and noodles
+8/22/2021,Indore,1a4d,banana smoothie,150,juices
+8/22/2021,Indore,2b43,water melon juice,100,juices
+8/22/2021,Indore,6b42,green peas masala,260,sidedish
+8/22/2021,Indore,8a47,roasted veggies,180,starters
+8/22/2021,Indore,7447,roasted veggies,180,starters
+8/22/2021,Indore,5649,dal tadka,250,sidedish
+8/22/2021,Indore,734f,cheese quesadilla,190,international
+8/22/2021,Indore,844a,cheese naan,80,bread
+8/22/2021,Indore,843,cheese quesadilla,190,international
+8/22/2021,Indore,5747,vietnamese fried rice,270,rice and noodles
+8/22/2021,Indore,b54c,lasagne,300,international
+8/22/2021,Indore,ba41,dal tadka,250,sidedish
+8/22/2021,Indore,bb4e,vietnamese fried rice,270,rice and noodles
+8/22/2021,Indore,bc46,banana smoothie,150,juices
+8/22/2021,Indore,e941,roasted veggies,180,starters
+8/23/2021,Hyderabad,1.00E+46,dal tadka,250,sidedish
+8/23/2021,Nagpur,8741,water melon juice,100,juices
+8/23/2021,Nagpur,e546,dal tadka,250,sidedish
+8/23/2021,Mysore,5.00E+49,lasagne,300,international
+8/23/2021,Mysore,5.00E+49,dal tadka,250,sidedish
+8/23/2021,Mysore,7d40,green peas masala,260,sidedish
+8/23/2021,Mysore,8e4f,lasagne,300,international
+8/23/2021,Mysore,4645,water melon juice,100,juices
+8/23/2021,Mysore,884c,lasagne,300,international
+8/23/2021,Mysore,b049,vietnamese fried rice,270,rice and noodles
+8/23/2021,Indore,1a4d,vietnamese fried rice,270,rice and noodles
+8/23/2021,Indore,2b43,lasagne,300,international
+8/23/2021,Indore,6b42,vietnamese fried rice,270,rice and noodles
+8/23/2021,Indore,7447,chicken noodles,330,rice and noodles
+8/23/2021,Indore,5649,cheese naan,80,bread
+8/23/2021,Indore,844a,cheese quesadilla,190,international
+8/23/2021,Indore,843,cheese naan,80,bread
+8/23/2021,Indore,b54c,vietnamese fried rice,270,rice and noodles
+8/23/2021,Indore,ba41,banana smoothie,150,juices
+8/23/2021,Indore,bb4e,banana smoothie,150,juices
+8/23/2021,Indore,e941,dal tadka,250,sidedish
+8/26/2021,Nagpur,8741,banana crepes,120,international
+8/26/2021,Mysore,4a42,cheese omlette,90,international
+8/26/2021,Indore,2b43,vegetable pasta,250,international
+8/27/2021,Mysore,094f,cheese omlette,90,international
+8/28/2021,Indore,2b43,strawberry shake,120,juices
+8/29/2021,Mysore,094f,banana crepes,120,international
+8/29/2021,Indore,2b43,banana crepes,120,international
+8/30/2021,Indore,2b43,vegetable pasta,250,international
