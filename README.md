@@ -11,7 +11,7 @@ This Dash application provides interactive visualizations for analyzing food ord
 
 ## Requirements
 To run this application, you need the following libraries:
-### 1)vdash
+### 1) dash
 ### 2) pandas
 ### 3) plotly
 
